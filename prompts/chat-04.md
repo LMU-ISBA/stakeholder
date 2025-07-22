@@ -130,7 +130,6 @@ Ensure the result is exactly what you need.
 ```markdown
 OUTPUT FORMAT:
 - LLM-friendly Markdown with clear sections
-- Include HTML/CSS/JavaScript code blocks
 - Provide component-based structure
 - Add comments explaining design decisions
 - Include placeholder content that can be easily customized
