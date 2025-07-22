@@ -87,29 +87,19 @@ Be specific about what you want ChatGPT/Claude to help you create.
 ### TASK:
 Create an optimized LLM prompt for an AI coding agent (like Lovable) that will generate a compelling, responsive landing page for my SDG-focused web application.
 
-The prompt should instruct the coding agent to build a landing page that includes:
-1. Hero section with elevator pitch integration
-2. Problem/solution explanation
-3. Key features overview
-4. SDG impact demonstration
-5. Call-to-action for demo/signup
-6. Contact/about section
-
 The prompt should specify technical requirements:
 - Fully responsive design (mobile, tablet, desktop)
 - Clean, modern aesthetic suitable for startup pitch competition
 - Fast loading and accessible
 - Include placeholder content that can be easily customized
 - Use semantic HTML and proper CSS structure
-
-Output in a markdown block.
 ```
 
 ### 📚 **Step 4: Provide EXAMPLES**
 
 Reference proven frameworks and structures.
 
-**Example Framework - PRD for AI Prototyping:**
+**Example Framework - PRD (Product Requirements Document) for AI Prototyping:**
 ```markdown
 EXAMPLES:
 Use a startup landing page structure:
@@ -123,12 +113,12 @@ Use a startup landing page structure:
 Reference sites like: Stripe, Notion, or Figma for clean, conversion-focused design patterns.
 ```
 
-### 📄 **Step 5: Specify OUTPUT FORMAT**
+### 📄 **Step 5: Specify FORMAT**
 
 Ensure the result is exactly what you need.
 
 ```markdown
-OUTPUT FORMAT:
+FORMAT:
 - LLM-friendly Markdown with clear sections
 - Provide component-based structure
 - Add comments explaining design decisions
@@ -222,15 +212,13 @@ CONTEXT:
 - Design Reference: [Describe uploaded UI mockup]
 - Purpose: Startup pitch competition demo
 
-TASK: Create a compelling, responsive landing page that showcases my SDG-focused web application with hero section, problem/solution explanation, key features, impact demonstration, and strong call-to-action.
+TASK: Create an LLM prompt to submit to an AI coding agent that will generate a compelling, responsive landing page showcasing my SDG-focused web application with hero section, problem/solution explanation, key features, impact demonstration, and strong call-to-action.
 
 EXAMPLES: Follow successful startup landing page patterns (Stripe, Notion-style) with clear value proposition, social proof, and conversion optimization.
 
-OUTPUT FORMAT: Complete HTML/CSS/JavaScript code with component structure, responsive design, and detailed implementation comments.
+FORMAT: LLM-friendly Markdown with clear sections, component-based structure, design decision comments, placeholder content, and responsive design considerations.
 
 TONE: Professional, innovative, impact-focused, with clear technical specifications and no ambiguity.
-
-Generate the complete landing page code now.
 ```
 
 ---
