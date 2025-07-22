@@ -161,8 +161,10 @@ Transform your research and pitch into a working web application:
   - [Chat 02: Deep Research with AI](./prompts/chat-02.md)
   - [Chat 03: Elevator Pitch Creation](./prompts/chat-03.md)
   - [Chat 04: AI Coding Agent Integration](./prompts/chat-04.md)
+- **[Prompt Engineering Course](https://learnprompting.org/docs/introduction)**
 
 ### 🔗 **External Links**
+- [Workshop Slides](https://r.isba.co/glp-slides)
 - [ChatGPT](https://chatgpt.com) - Primary AI platform
 - [Lovable](https://lovable.dev) - Recommended AI coding agent
 - [Dribbble](https://dribbble.com) - Design inspiration
