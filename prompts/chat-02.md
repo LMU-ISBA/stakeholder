@@ -6,8 +6,8 @@ Survey results revealed AI usage for research.
 ## 🖥️ Setup Instructions
 
 **Before you begin:**
-1. Go to [chatgpt.com](https://chatgpt.com)
-2. First, use the Deep Research prompt generator to craft your research question
+1. Create a new chat by opening [chatgpt.com](https://chatgpt.com) in a new browser tab
+2. Use the Deep Research prompt generator to craft your research question
 3. Then access the **Deep Research** tool for investigation
 
 ---
@@ -17,7 +17,7 @@ Survey results revealed AI usage for research.
 ### 🤖 **Access the Prompt Generator**
 1. Go to: [GPTOracle - AI Research Meta-Prompter](https://chatgpt.com/g/g-67cf7a6be27c8191835abbb61a8f9bed-gptoracle-the-ai-research-meta-prompter)
 2. Click the conversation starter: `Can you generate the prompt for the subject of : {Ask the user to enter the subject}`
-3. Submit your SDG # and title, example: `SDG 4 - Quality Education`
+3. Submit your SDG # and title from Chat 01, example: `SDG 4 - Quality Education`
 3. **Pro Tip:** Use `Shift + Enter` to add newlines when formatting your responses to questions
 
 ### 📝 **Craft Your Research Question**
@@ -47,6 +47,8 @@ Deep Research is an advanced AI feature that transforms how complex research is 
 3. **Source Evaluation**: Assesses credibility, relevance, and quality of found materials
 4. **Synthesis**: Combines findings into coherent, evidence-based conclusions
 5. **Documentation**: Provides full citations and transparent methodology
+
+**⏱️ Processing Time**: Deep research typically takes 5-30 minutes to complete, depending on topic complexity and depth of investigation required.
 
 #### 🎯 **Perfect For**
 - Academic research projects

@@ -93,7 +93,7 @@ Your tone should be encouraging, clear, and thought-provoking. Prioritize helpin
 
 **📝 Reflection Exercise:**
 ```markdown
-How did defining the ROLE influence the conversation? Compare the interaction before and after the ROLE was set. What were the key differences in tone, structure, and approach?
+How did defining the ROLE influence the conversation? Compare the interaction before and after the ROLE was set. What were the key differences in tone, structure, and approach? Display the results in a table for a side-by-side comparision.
 ```
 
 **Key Differences to Observe:**

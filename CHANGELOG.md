@@ -22,6 +22,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
-- Updated README with workshop description and prompt component overview
+- Updated README with comprehensive workshop structure, technical requirements, and learning objectives
 - Enhanced .gitignore to exclude CLAUDE.md configuration file
 - Simplified Chat 01 Level 3 heading and added Shift+Enter pro tip for better usability
+- Added Deep Research processing time information (5-30 minutes) to Chat 02
+- Improved Chat 03 setup instructions with model selection guidance and framework research
+- Clarified ROLE vs TONE distinction in Chat 03 with better examples and definitions
+- Restructured Chat 03 prompt flow with clearer step numbering and context gathering
