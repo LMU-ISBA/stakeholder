@@ -104,31 +104,6 @@ How did defining the ROLE influence the conversation? Compare the interaction be
 
 ---
 
-## 🛠️ Advanced Components in Action
-
-### 📚 **EXAMPLES Component**
-*Show, don't just tell*
-
-```markdown
-EXAMPLES:
-Question 1: "Which area interests you most? A) Environmental sustainability B) Social equality C) Economic development"
-
-Expected response format: "Based on your answers, I recommend SDG 13 (Climate Action) as your primary focus..."
-```
-
-### 📝 **FORMAT Component**
-*Structure for usability*
-
-```markdown
-FORMAT:
-- Present each question in a numbered list
-- Provide exactly 3 multiple-choice options (A, B, C)
-- End with a recommendation section containing:
-  * Primary SDG recommendation
-  * 1-2 alternative SDGs
-  * Brief rationale (2-3 sentences)
-```
-
 ### 🎯 **Best Practices Checklist**
 
 ✅ **Do:**
