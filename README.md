@@ -149,3 +149,21 @@ Transform your research and pitch into a working web application:
 - ✅ Content creation and marketing
 - ✅ Rapid prototyping and development
 - ✅ Strategic planning and decision-making
+
+---
+
+## 📚 Additional Resources
+
+### 📖 **Reference Materials**
+- **[Prompt Cheatsheet](./prompts/cheatsheet.md)** - Complete reference guide for all workshop prompts and techniques
+- **Individual Chat Guides:**
+  - [Chat 01: Prompt Engineering Fundamentals](./prompts/chat-01.md)
+  - [Chat 02: Deep Research with AI](./prompts/chat-02.md)
+  - [Chat 03: Elevator Pitch Creation](./prompts/chat-03.md)
+  - [Chat 04: AI Coding Agent Integration](./prompts/chat-04.md)
+
+### 🔗 **External Links**
+- [ChatGPT](https://chatgpt.com) - Primary AI platform
+- [Lovable](https://lovable.dev) - Recommended AI coding agent
+- [Dribbble](https://dribbble.com) - Design inspiration
+- [GPTOracle - AI Research Meta-Prompter](https://chatgpt.com/g/g-67cf7a6be27c8191835abbb61a8f9bed-gptoracle-the-ai-research-meta-prompter) - Deep research prompt generator
