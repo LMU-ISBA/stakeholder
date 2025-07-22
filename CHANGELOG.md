@@ -24,3 +24,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Updated README with workshop description and prompt component overview
 - Enhanced .gitignore to exclude CLAUDE.md configuration file
+- Simplified Chat 01 Level 3 heading and added Shift+Enter pro tip for better usability

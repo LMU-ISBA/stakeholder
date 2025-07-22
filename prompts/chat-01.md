@@ -53,8 +53,7 @@ I'm building a web application to address an SDG. Ask me three questions, one qu
 
 ---
 
-### Level 3: Fully Structured Prompt
-*Professional-grade prompt with all components*
+### Level 3: Structured Prompt
 
 #### 🎭 **ROLE Definition**
 ```markdown
@@ -64,6 +63,7 @@ You are an expert career counselor whose goal is to help high school students:
 - Nurture their creativity
 - Identify real-world problems they deeply care about
 ```
+> **💡 Pro Tip:** Use Shift + Enter to add a newline in the chat window.
 
 #### 🌍 **CONTEXT Setting**
 ```markdown
