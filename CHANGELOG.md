@@ -19,6 +19,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Current 2025 AI model information for OpenAI, Anthropic, and Google
 - Quality assurance checklists and best practices
 - Ready-to-use prompt templates for immediate application
+- Interactive HTML slide deck (workshop-slides.html) with 12 ultra-optimized slides
+- Professional slide presentation with speaker notes, timer, and keyboard navigation
 - Comprehensive prompt cheatsheet (`prompts/cheatsheet.md`) consolidating all workshop techniques
 - Additional Resources section in README with reference materials and external links
 
