@@ -29,3 +29,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Improved Chat 03 setup instructions with model selection guidance and framework research
 - Clarified ROLE vs TONE distinction in Chat 03 with better examples and definitions
 - Restructured Chat 03 prompt flow with clearer step numbering and context gathering
+- Enhanced Chat 04 setup with multiple AI coding platform options (Lovable recommended)
+- Clarified Chat 04 task focus on creating LLM prompts for AI coding agents rather than direct development
+- Added Claude Code and other coding platforms (Bolt.new, Replit, Cursor) as alternatives

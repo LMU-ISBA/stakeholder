@@ -5,14 +5,28 @@ A comprehensive guide to creating effective prompts for AI coding agents like Lo
 ## 🖥️ Setup Instructions
 
 **Before you begin:**
-1. Go to [lovable.dev](https://lovable.dev) (or your preferred AI coding agent)
-2. Ensure you have access to a reasoning model (o3, Claude 4, or Gemini 2.5 Pro)
+1. **Choose your AI coding platform (recommended: Lovable for this workshop):**
+   - **[Lovable](https://lovable.dev)** ⭐ **RECOMMENDED** - Specialized in rapid web app prototyping, perfect for landing pages
+   - **[Bolt.new](https://bolt.new)** - Full-stack development with real-time preview
+   - **[Replit](https://replit.com)** - Collaborative coding environment with AI assistance
+   - **[Cursor](https://cursor.com)** - AI-powered IDE with advanced code generation
+   - **[Claude Code](https://claude.ai/code)** - AI-powered development environment from Anthropic
+2. Ensure you have access to a reasoning model (o3, o4-mini, Claude 4, or Gemini 2.5 Pro)
 3. **Prerequisites**: Complete Chat 01 (SDG selection), Chat 02 (Deep research), and Chat 03 (Elevator pitch)
 4. Gather a UI mockup or design inspiration (e.g., from Dribbble)
+5. Create a new chat by opening [chatgpt.com](https://chatgpt.com) in a new browser tab
 
 ---
 
-## 🎯 Understanding AI Coding Agents
+## 🎯 Understanding the Task
+
+**Your Goal**: Create an optimized prompt that you'll then use with AI coding agents to build your landing page.
+
+**The Process**:
+1. **In Chat 04 (ChatGPT/Claude)**: Build a comprehensive prompt using the framework below
+2. **Then in Lovable/Bolt**: Submit that prompt to generate your actual landing page
+
+## 🤖 Understanding AI Coding Agents
 
 AI coding agents like Lovable are specialized tools that can:
 - **Generate Complete Applications**: Create full-stack web apps from descriptions
@@ -20,15 +34,9 @@ AI coding agents like Lovable are specialized tools that can:
 - **Implement Best Practices**: Follow modern development standards and frameworks
 - **Iterate Rapidly**: Make changes based on feedback and requirements
 
-### 🔧 **Popular AI Coding Agents**
-- **Lovable**: Specialized in rapid web app prototyping
-- **Bolt.new**: Full-stack development with real-time preview
-- **Cursor**: AI-powered IDE with code generation
-- **GitHub Copilot**: Code completion and generation assistant
-
 ---
 
-## 🚀 Step-by-Step Prompt Creation
+## 🚀 Step-by-Step Prompt Creation for AI Coding Agents
 
 ### 📝 **Step 1: Define Your ROLE**
 
@@ -36,7 +44,8 @@ Establish the AI's expertise for development tasks.
 
 **Example Role:**
 ```markdown
-ROLE: You are an expert full-stack developer and UX/UI designer specializing in creating compelling landing pages for social impact startups. You excel at translating business concepts into user-friendly, conversion-optimized web experiences.
+### ROLE:
+You are an expert full-stack developer and UX/UI designer specializing in creating compelling landing pages for social impact startups. You excel at translating business concepts into user-friendly, conversion-optimized web experiences.
 ```
 
 ### 🌍 **Step 2: Build Comprehensive CONTEXT**
@@ -45,11 +54,15 @@ Combine all previous research and visual inspiration.
 
 #### **Context Component 1: Project Foundation**
 ```markdown
-CONTEXT:
-- SDG Focus: [Insert your chosen SDG from Chat 01]
-- Target Audience: [From your Chat 01 career counselor responses]
-- Research Insights: [Key findings from Chat 02 deep research]
-- Elevator Pitch: [Your final pitch from Chat 03]
+### CONTEXT:
+- SDG Focus:
+[Insert your chosen SDG from Chat 01]
+- Target Audience:
+[From your Chat 01 career counselor responses]
+- Research Insights:
+[Key findings from Chat 02 deep research]
+- Elevator Pitch:
+[Your final pitch from Chat 03]
 ```
 
 #### **Context Component 2: Visual Design Reference**
@@ -67,12 +80,14 @@ CONTEXT:
 
 ### 🎯 **Step 3: Define Your TASK**
 
-Be specific about deliverables and requirements.
+Be specific about what you want ChatGPT/Claude to help you create.
 
 **Core Task:**
 ```markdown
-TASK: Create a compelling landing page for my SDG-focused web application that includes:
+### TASK:
+Create an optimized LLM prompt for an AI coding agent (like Lovable) that will generate a compelling, responsive landing page for my SDG-focused web application.
 
+The prompt should instruct the coding agent to build a landing page that includes:
 1. Hero section with elevator pitch integration
 2. Problem/solution explanation
 3. Key features overview
@@ -80,7 +95,14 @@ TASK: Create a compelling landing page for my SDG-focused web application that i
 5. Call-to-action for demo/signup
 6. Contact/about section
 
-The landing page should be suitable for presentation at a startup pitch competition and effectively communicate the value proposition to both judges and potential users.
+The prompt should specify technical requirements:
+- Fully responsive design (mobile, tablet, desktop)
+- Clean, modern aesthetic suitable for startup pitch competition
+- Fast loading and accessible
+- Include placeholder content that can be easily customized
+- Use semantic HTML and proper CSS structure
+
+Output in a markdown block.
 ```
 
 ### 📚 **Step 4: Provide EXAMPLES**
