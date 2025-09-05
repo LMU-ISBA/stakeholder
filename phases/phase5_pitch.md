@@ -1,101 +1,76 @@
 # Phase 5: Evidence-Based Pitch Deck Creation (20 minutes)
 
-**Objective:** Create compelling presentation that integrates all previous work into a cohesive business case for president approval. Focus on data-driven decision making and clear ROI.
+**Objective:** Create compelling presentation that integrates all previous work into a cohesive business case. Transform four phases of strategic analysis into executive-ready presentation with realistic stakeholder practice.
 
 **Previous Phase:** [Phase 4: Prototype](./phase4_prototype.md) - Use working prototype as centerpiece of business case presentation
 
 ---
 
-## Step 1: AI-Assisted Presentation Strategy (8 minutes)
+## Step 1: Strategic Presentation Outline (7 minutes)
 
-### Step 1A: Presentation Framework Development (5 minutes)
 **Type:**
 ```
-Help me create a strategic presentation framework for pitching a customer service automation internship project to a company president. This presentation needs to integrate:
-- Research insights about the company and industry
-- Specific findings from stakeholder discovery meeting
-- Strategic focus decision and rationale  
-- Working prototype demonstration
-- Clear business case and ROI
-
-Ask me questions about the audience and context to help structure the most effective presentation.
+Create a structured ROLE CONTEXT TASKS OUTPUT FORMAT prompt for developing a comprehensive presentation outline that integrates all my work from Phases 1-4. The outline should create a compelling narrative for executive decision makers while positioning the internship opportunity and demonstrating clear business value.
 ```
 
-**AI will ask about:**
-- Presidential decision criteria (ROI, risk, resources, timeline)
-- Meeting format and time constraints
-- Key stakeholders who might influence the decision
-- Competing priorities or concerns to address
-- Success metrics that matter most to leadership
+**AI will generate an RCTO framework like:**
+```
+ROLE: [What type of presentation strategy expertise do we need?]
 
-**Your responses:**
-- Criteria: Clear ROI, low risk, defined scope, academic partnership value
-- Format: 15-20 minute presentation with Q&A
-- Stakeholders: President, possibly operations manager, potentially other executives
-- Concerns: Resource allocation, project scope creep, student capability questions
-- Metrics: Cost savings, response time improvement, team capacity gains
+CONTEXT: [What should AI understand about the integrated work and executive audience?]
 
-### Step 1B: Story Arc Development (3 minutes)
+TASK: [What specific presentation elements need to be outlined?]
+
+OUTPUT FORMAT: [How should the presentation structure be organized?]
+```
+
+**Then use the AI-generated prompt with your integrated work from all phases.**
+
+**Your Action:** Provide AI with key insights from each phase (research findings, discovery insights, transcript analysis, PRD focus, prototype features) to create comprehensive presentation outline
+
+## Step 2: Executive Slide Development (8 minutes)
+
 **Type:**
 ```
-Based on our context, help me create a compelling narrative arc for this presentation that builds credibility and momentum toward approval. Include the key story elements and logical flow.
+Create a structured ROLE CONTEXT TASKS OUTPUT FORMAT prompt for developing executive-ready slide content that translates my presentation outline into professional slides with clear headlines, compelling bullets, and speaker notes. The slides should demonstrate data-driven decision making throughout the entire consulting process.
 ```
 
-**Expected Response:** Presentation structure that builds from problem → research → strategic insight → solution → business value → next steps
+**AI will generate an RCTO framework like:**
+```
+ROLE: [What type of executive presentation expertise do we need?]
 
-## Step 2: Content Integration & Slide Development (7 minutes)
+CONTEXT: [What should AI understand about the presentation outline and executive communication requirements?]
 
-### Step 2A: Key Message Development (4 minutes)
+TASK: [What specific slide content and formats need to be created?]
+
+OUTPUT FORMAT: [How should the slides be structured for maximum executive impact?]
+```
+
+**Then use the AI-generated prompt with your presentation outline to create complete slide content.**
+
+**Your Action:** Use the structured prompt to develop 8-10 executive-ready slides that tell your complete story from initial research through working prototype
+
+## Step 3: Multi-Stakeholder Presentation Practice (5 minutes)
+
 **Type:**
 ```
-Help me develop the key messages for each section of our presentation. For each section, provide:
-1. Core message/takeaway
-2. Supporting evidence from our work
-3. Visual/demonstration element
-4. Transition to next section
-
-Focus on making this data-driven and credible based on our research and discovery process.
+Create a structured ROLE CONTEXT TASKS OUTPUT FORMAT prompt for setting up a realistic presentation practice session with multiple stakeholder perspectives. I need to practice presenting to both executive decision makers (focused on ROI, risk, resources) and the customer service lead (focused on operational impact, team concerns, implementation feasibility).
 ```
 
-**Section focus areas:**
-- **Problem Validation:** Evidence from research and stakeholder discovery
-- **Strategic Approach:** Why we focused on specific product area
-- **Solution Demonstration:** Prototype showing realistic automation
-- **Business Impact:** ROI projections and risk mitigation
-- **Implementation Plan:** Academic partnership and next steps
-
-### Step 2B: Slide Content Creation (3 minutes)
-**Type:**
+**AI will generate an RCTO framework like:**
 ```
-Create specific slide content for our presentation, including headlines, bullet points, and speaking notes. Focus on executive-level communication - clear, concise, business-focused.
+ROLE: [What type of stakeholder simulation expertise do we need?]
+
+CONTEXT: [What should AI understand about the presentation and different stakeholder perspectives?]
+
+TASK: [What specific simulation scenarios and questions should be created?]
+
+OUTPUT FORMAT: [How should the multi-stakeholder practice session be structured?]
 ```
 
-**Key slides to create:**
-1. **Executive Summary:** Problem, solution, business impact in 30 seconds
-2. **Research Insights:** Key findings that led to strategic focus
-3. **Discovery Results:** Stakeholder pain points and opportunity sizing
-4. **Strategic Focus:** Why [product] based on data, not assumptions
-5. **Prototype Demo:** Working solution with realistic scenarios
-6. **Business Case:** ROI, risk mitigation, proof-of-concept approach
-7. **Academic Partnership:** Value of intern + faculty collaboration
-8. **Next Steps:** Clear implementation pathway and success metrics
+**Then use the AI-generated prompt to practice your presentation with realistic stakeholder responses.**
 
-## Step 3: Presentation Rehearsal & Refinement (5 minutes)
-
-### Step 3A: AI Presentation Coaching (5 minutes)
-**Type:**
-```
-Help me rehearse this presentation by playing the role of a skeptical company president. Ask challenging questions that a president might ask, and help me refine my responses. Focus on business justification, risk management, and ROI validation.
-```
-
-**Expected challenging questions:**
-- "How do we know customers want automated support?"
-- "What if the intern can't deliver quality work?"
-- "Why not hire a consulting firm instead?"
-- "What happens if this doesn't work - what's our risk?"
-- "How do we measure success objectively?"
-
-**Learning Point:** Prepare for executive skepticism with data-driven responses
+**Your Action:** Present your slides to AI playing different stakeholder roles, responding to challenges and refining your delivery for maximum impact
 
 ## Final Deliverable Integration
 

@@ -18,6 +18,7 @@ By the end of this workshop, participants will:
 - **Create technical solution architectures** with AI collaboration for complex business problems
 - **Build working prototypes** using no-code platforms and AI-powered design tools
 - **Present business solutions** with clear value propositions and implementation roadmaps
+- **Master RCTO (Role Context Tasks Output) AI prompting structure** for professional-quality AI collaboration
 - **Understand AI collaboration best practices** for professional consulting engagements
 
 ### 🧠 Core AI Collaboration Principle
