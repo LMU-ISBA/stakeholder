@@ -6,52 +6,49 @@
 
 ---
 
-## Step 1: PRD-to-Prototype Strategy (10 minutes)
+## Step 1: PRD-to-Prototype Strategy (8 minutes)
 
-### Step 1A: PRD Analysis for Prototype Scope (5 minutes)
+### Step 1A: AI-Generated Prototype Requirements Framework (8 minutes)
 **Type:**
 ```
-Based on the PRD I created in Phase 3, help me extract the key elements needed to build a focused prototype:
-1. The specific product/focus area identified from transcript analysis
-2. The primary use cases and customer scenarios outlined in the PRD
-3. The success metrics and business objectives that the prototype should demonstrate
-4. The stakeholder constraints and requirements that should guide design decisions
-
-Analyze my PRD and create a prototype specification that translates the strategic analysis into concrete design requirements.
+Create a structured ROLE CONTEXT TASKS OUTPUT FORMAT prompt for analyzing my PRD to extract comprehensive prototype requirements. The prompt should help me translate my strategic analysis into concrete design specifications that include conversation flows, customer scenarios, executive demonstration features, and technical constraints.
 ```
 
-**Your Action:** Copy your Phase 3 PRD content into this conversation for AI analysis
+**AI will generate an RCTO framework like:**
+```
+ROLE: [What type of prototype design expertise do we need?]
 
-### Step 1B: Prototype Requirements Definition (5 minutes)
+CONTEXT: [What should AI understand about the PRD and prototype objectives?]
+
+TASK: [What specific elements need to be extracted from the PRD?]
+
+OUTPUT FORMAT: [How should the prototype requirements be structured?]
+```
+
+**Then use the AI-generated prompt with your Phase 3 PRD to create comprehensive prototype specifications.**
+
+**Your Action:** Copy your Phase 3 PRD content and use it with the RCTO prompt to get targeted prototype requirements based on strategic analysis
+
+## Step 2: Comprehensive No-Code Builder Prompt Creation (14 minutes)
+
+### Step 2A: Platform-Optimized Prompt Development (14 minutes)
 **Type:**
 ```
-From the PRD analysis, help me define specific prototype requirements:
-1. What conversation flows would best demonstrate the identified value proposition?
-2. What realistic customer scenarios should the prototype showcase?
-3. What specific features would prove the business case to executives?
-4. What technical constraints should guide the no-code platform choice?
-
-Create a focused prototype scope that directly supports the business case from my PRD.
+Create a structured ROLE CONTEXT TASKS OUTPUT FORMAT prompt for building a no-code prototype (lovable.dev, bolt.new, v0.app, or replit.com) based on my prototype requirements. The prompt should translate my strategic analysis into executable design specifications for professional executive demonstration.
 ```
 
-**Expected Response:** Targeted prototype requirements based on strategic analysis
-
-## Step 2: Comprehensive No-Code Builder Prompt Creation (12 minutes)
-
-### Step 2A: Platform-Optimized Prompt Development (12 minutes)
-**Type:**
+**AI will generate an RCTO framework like:**
 ```
-Based on the prototype requirements we just defined, help me create a comprehensive prompt for a no-code platform (lovable.dev, bolt.new, v0.app, or replit.com) that includes:
+ROLE: [What type of no-code development expertise do we need?]
 
-1. **Business Context:** Executive demonstration for customer service automation project based on my PRD findings
-2. **Product Focus:** Specific product/area identified in transcript analysis with realistic use cases
-3. **UI Requirements:** Professional chat interface suitable for business presentation
-4. **Content Strategy:** Realistic customer scenarios and responses based on my strategic analysis
-5. **Conversation Flow:** Static screens that demonstrate the automation value proposition
-6. **Technical Specs:** Platform-specific requirements for rapid prototype development
+CONTEXT: [What should the platform understand about the business case and prototype objectives?]
 
-Make this prompt detailed enough that the no-code platform can generate a professional prototype that directly demonstrates the business value outlined in my PRD.
+TASK: [What specific prototype features and functionality need to be built?]
+
+OUTPUT FORMAT: [How should the prototype be structured and presented?]
 ```
+
+**Then use the AI-generated prompt on your chosen no-code platform to build the prototype.**
 
 **AI will create a comprehensive, platform-ready prompt that translates your strategic work into executable design specifications**
 
@@ -71,16 +68,23 @@ Make this prompt detailed enough that the no-code platform can generate a profes
 ### Step 3B: Prototype Validation and Refinement (3 minutes)
 **After initial prototype generation, type:**
 ```
-Review the prototype that was just generated against my PRD requirements. Does it effectively demonstrate:
-1. The specific business value proposition identified in my transcript analysis?
-2. The customer scenarios and use cases outlined in the PRD?
-3. Professional presentation quality suitable for executive demonstration?
-4. Clear visual demonstration of automation capabilities?
-
-Suggest 2-3 specific improvements to better align the prototype with my strategic business case.
+Create a structured ROLE CONTEXT TASKS OUTPUT FORMAT prompt for creating a manual validation checklist for my prototype. I will open the prototype in a browser and need a systematic checklist to evaluate whether it effectively demonstrates the business value and supports my strategic business case from the PRD.
 ```
 
-**Your Action:** Make targeted refinements based on AI feedback to ensure the prototype directly supports your Phase 3 analysis
+**AI will generate an RCTO framework like:**
+```
+ROLE: [What type of prototype evaluation expertise do we need?]
+
+CONTEXT: [What should AI understand about the PRD requirements and manual validation process?]
+
+TASK: [What specific validation checklist items should be created?]
+
+OUTPUT FORMAT: [How should the checklist be structured for manual browser testing?]
+```
+
+**Then use the AI-generated prompt to create your validation checklist.**
+
+**Your Action:** Open your prototype in a browser and use the checklist to manually validate it, then make targeted refinements based on the assessment
 
 **Troubleshooting Tip:** If your no-code platform has issues, add this to your prompt: *"Think harder about this request and reason through the technical requirements step by step."*
 
