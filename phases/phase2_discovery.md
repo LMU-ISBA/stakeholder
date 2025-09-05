@@ -10,20 +10,25 @@
 
 **Go back to your Phase 1 research conversation and type:**
 ```
-I need to prepare for a discovery meeting preparation. Create a concise summary of our research that I can use as context for my next AI collaboration. Include:
-
-1. **Key Company Insights:** Most important findings about Apogee Digital's business, customers, and market position
-2. **Customer Service Challenges:** Main support issues and pain points we identified  
-3. **Critical Assumptions:** The assumptions we identified that need stakeholder validation
-4. **Research Gaps:** Specific questions/areas where we need more information from stakeholders
-5. **Stakeholder Concerns:** Potential resistance or concerns about automation we should address
-
-Format this as a structured summary I can copy and paste as context for my discovery planning.
+Create a structured ROLE CONTEXT TASKS OUTPUT FORMAT prompt for synthesizing my Phase 1 research into a discovery planning summary. I need a comprehensive context summary that I can use for my Phase 2 discovery strategy development.
 ```
+
+**AI will generate an RCTO framework like:**
+```
+ROLE: [What type of research synthesis expertise do we need?]
+
+CONTEXT: [What should AI understand about the Phase 1 research and discovery objectives?]
+
+TASK: [What specific research elements should be synthesized?]
+
+OUTPUT FORMAT: [How should the summary be structured for discovery planning use?]
+```
+
+**Then use the AI-generated prompt to create your research context summary.**
 
 **Your Action:** Copy the AI-generated structured summary for use in Step 2.
 
-**Learning Point:** Having AI synthesize your previous work creates more comprehensive context than manual copy/paste efforts.
+**Learning Point:** Using RCTO framework to synthesize previous work creates more comprehensive context than manual copy/paste efforts.
 
 ## Step 2: Research-Informed Discovery Strategy (12 minutes)
 
