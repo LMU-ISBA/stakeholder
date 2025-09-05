@@ -11,7 +11,7 @@
 ## Step 1: Transcript Analysis with AI Scaffolding (15 minutes)
 
 ### Step 1A: Basic Transcript Analysis (3 minutes)
-**Start a NEW chat session and upload the transcript file. Type:**
+**Start a NEW chat session and upload the [transcript file](../student/transcript.txt). Type:**
 ```
 Analyze this stakeholder meeting transcript.
 ```
