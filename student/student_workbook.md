@@ -861,156 +861,86 @@ PRESENTATION FLOW:
 
 **Deadline:** 48 hours after workshop completion
 
-**Submission Method:** 
-1. Create a single Google Drive folder named: "MSBA Workshop - [Your Name]"
-2. Upload all three deliverables to the folder
-3. Share folder with instructor (edit permissions)
-4. Submit folder link via course management system
+**Submission Method:**
+1. **Upload PDF Files:** Submit both PDFs directly to the LMS assignment
+2. **Submit AI Chat Links:** Include all AI conversation links in the assignment text box
 
-**Folder Structure:**
+**File Naming Requirements:**
+- `Strategic_PRD_Fname_Lname.pdf` (replace Fname_Lname with your actual name)
+- `Executive_Pitch_Deck_Fname_Lname.pdf` (replace Fname_Lname with your actual name)
+
+**Examples:**
+- `Strategic_PRD_John_Smith.pdf`
+- `Executive_Pitch_Deck_Sarah_Johnson.pdf`
+
+**AI Chat Links Format:**
+In the assignment text submission box, include:
 ```
-MSBA Workshop - [Your Name]/
-├── AI_Conversations.pdf (or Google Doc with links)
-├── Strategic_PRD.pdf  
-└── Executive_Pitch_Deck.pdf
+Phase 1 Research: [ChatGPT/Claude link]
+Phase 3 Analysis: [ChatGPT/Claude link]  
+Phase 4 Prototype: [ChatGPT/Claude link]
+Phase 5 Presentation: [ChatGPT/Claude link]
 ```
 
-## Grading Integration
+## Credit/No Credit Evaluation
 
-These deliverables will be evaluated as part of your overall workshop assessment:
-- **AI Conversation Quality:** Demonstrates learning progression and effective collaboration (15%)
-- **PRD Strategic Thinking:** Shows analysis skills and business case development (20%)
-- **Presentation Excellence:** Executive communication and professional delivery (15%)
+This workshop uses **Credit/No Credit** assessment. To receive credit, you must:
+
+### Pass Criteria (Credit)
+- **Complete Participation:** Attend full workshop and actively engage in all phases
+- **Submit All Deliverables:** AI conversations, PRD document, and pitch deck within deadline
+- **Meet Professional Standards:** Deliverables demonstrate effort and professional presentation
+- **Show Learning Progression:** Evidence of AI collaboration development throughout workshop
+
+### No Credit Criteria
+- Missing workshop attendance without prior arrangement
+- Failure to submit required deliverables within deadline
+- Deliverables that show minimal effort or fail to meet basic professional standards
+- No evidence of learning or engagement with workshop content
 
 ---
 
-# Assessment Criteria
+# Workshop Expectations
 
-## Individual Assessment (40%)
+## What Success Looks Like
 
-### Research Quality (15%)
-**Excellent (A):**
-- Comprehensive business and industry analysis
-- Creative use of AI for insights generation
-- Well-documented research process
-- Clear connection between research and solution design
+To receive **Credit** for this workshop, demonstrate:
 
-**Good (B):**
-- Solid research covering key areas
-- Effective AI collaboration
-- Adequate documentation
-- Good insights for solution development
+### Active Learning & Engagement
+- **Full Attendance:** Participate in all workshop phases and activities
+- **Collaborative Spirit:** Work effectively in teams and contribute to discussions  
+- **Professional Behavior:** Maintain focus, respect others, and engage constructively
+- **Curiosity & Questions:** Ask thoughtful questions and explore AI capabilities
 
-**Satisfactory (C):**
-- Basic research meeting requirements
-- Some AI usage
-- Minimal documentation
-- Limited insight depth
+### AI Collaboration Development  
+- **Progression Shown:** Evidence of learning from basic prompts to sophisticated frameworks
+- **Critical Thinking:** Question and refine AI outputs rather than accepting them blindly
+- **Strategic Application:** Use AI for business insights, not just information gathering
+- **Documentation:** Track your AI learning journey through conversation logs
 
-### AI Collaboration Skills (15%)
-**Excellent (A):**
-- Sophisticated prompt engineering
-- Iterative refinement of AI outputs
-- Critical evaluation of AI suggestions  
-- Seamless integration of AI insights with human judgment
+### Professional Deliverable Quality
+- **Complete Submission:** All three deliverables submitted on time
+- **Business Standards:** Professional formatting and communication appropriate for workplace
+- **Effort Demonstrated:** Clear evidence of time and thought invested in the work
+- **Integration:** Deliverables show connection between phases and build on each other
 
-**Good (B):**
-- Effective prompt techniques
-- Some iteration and refinement
-- Generally good AI output evaluation
-- Reasonable integration of insights
+### Business Understanding
+- **Strategic Thinking:** Move beyond surface-level analysis to business insights
+- **Stakeholder Focus:** Understand and address real business needs from transcript
+- **Value Orientation:** Connect technical solutions to business impact and ROI
+- **Implementation Awareness:** Realistic understanding of project scope and complexity
 
-**Satisfactory (C):**
-- Basic AI usage
-- Limited prompt sophistication
-- Accepts AI output without much evaluation
-- Minimal integration effort
+## Reflection Requirement
 
-### Strategic Thinking (10%)
-**Excellent (A):**
-- Demonstrates deep understanding of business challenges
-- Develops insightful discovery questions
-- Shows strong analytical reasoning
-- Connects technical solutions to business value
+**Submit:** 250-word reflection essay answering:
+*"How did collaborating with AI change your approach to business problem-solving? What did you learn about the strengths and limitations of AI as a business partner?"*
 
-**Good (B):**
-- Good grasp of business context
-- Develops relevant questions
-- Shows analytical thinking
-- Makes reasonable connections
-
-**Satisfactory (C):**
-- Basic understanding of challenges
-- Develops standard questions
-- Limited analytical depth
-- Few connections made
-
-## Team Assessment (40%)
-
-### Solution Design Quality (20%)
-**Excellent (A):**
-- Innovative, well-reasoned solution architecture
-- Addresses key stakeholder needs effectively
-- Demonstrates technical feasibility
-- Shows scalability considerations
-- Clear implementation roadmap
-
-**Good (B):**
-- Solid solution addressing main requirements
-- Generally feasible approach
-- Some scalability thinking
-- Reasonable implementation plan
-
-**Satisfactory (C):**
-- Basic solution meeting minimum requirements
-- Limited innovation or depth
-- Questionable feasibility
-- Vague implementation approach
-
-### Prototype Quality (20%)
-**Excellent (A):**
-- Fully functional prototype demonstrating key features
-- Excellent user experience design
-- Comprehensive testing scenarios
-- Clear documentation and next steps
-
-**Good (B):**
-- Working prototype with core functionality
-- Good user experience
-- Basic testing completed
-- Adequate documentation
-
-**Satisfactory (C):**
-- Basic prototype with limited functionality
-- Acceptable user experience
-- Minimal testing
-- Limited documentation
-
-## Participation & Presentation (20%)
-
-### Workshop Engagement (10%)
-- Active participation in activities
-- Quality of questions and insights
-- Collaboration effectiveness
-- Professionalism and preparedness
-
-### Final Presentation (10%)
-- Clear communication of solution
-- Effective use of prototype/demo
-- Responds well to questions
-- Shows understanding of business value
-
-## Reflection Essay (Pass/Fail)
-
-**Required:** 250-word reflection on AI collaboration experience
-**Prompt:** "How did collaborating with AI change your approach to business problem-solving? What did you learn about the strengths and limitations of AI as a business partner?"
-
-**Passing Criteria:**
-- Demonstrates thoughtful reflection on the AI collaboration experience
-- Identifies specific examples of effective AI usage
-- Recognizes both capabilities and limitations of AI tools
-- Shows understanding of how AI can enhance human decision-making
-- Written clearly and professionally
+**What Makes a Strong Reflection:**
+- Specific examples from your workshop experience
+- Recognition of both AI capabilities and limitations  
+- Understanding of human-AI collaboration dynamics
+- Connection to future professional applications
+- Clear, professional writing
 
 ---
 

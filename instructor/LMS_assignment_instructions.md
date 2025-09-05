@@ -1,21 +1,22 @@
 # MSBA AI Workshop - LMS Assignment Setup Instructions
 
 ## Assignment Title
-**AI-Powered Customer Service Chatbot Workshop - Final Deliverables**
+**AI-Powered Customer Service Chatbot Workshop - Final Deliverables (Credit/No Credit)**
 
 ## Assignment Description
 
 ### Overview
-Submit three deliverables demonstrating your mastery of AI collaboration for strategic business problem-solving. These submissions show your progression through the complete consulting process from research to executive presentation.
+This workshop uses **Credit/No Credit** assessment. Submit three deliverables demonstrating your AI collaboration learning and professional development. These submissions complete your workshop experience and show your progression through strategic business problem-solving.
 
 ### Required Deliverables
 
+**Assessment:** Credit/No Credit (no letter grades)  
 **Deadline:** 48 hours after workshop completion  
 **Submission Method:** Single Google Drive folder link
 
-#### 1. AI Conversation Documentation (25 points)
+#### 1. AI Conversation Documentation
 **Format:** Google Doc with shared links to AI conversations  
-**Purpose:** Demonstrate AI collaboration progression and strategic learning
+**Purpose:** Show your AI collaboration learning journey
 
 **Required Conversations:**
 - **Phase 1 Research:** Conversation showing scaffolding progression (Basic → AI-Guided → Structured)
@@ -28,7 +29,7 @@ Submit three deliverables demonstrating your mastery of AI collaboration for str
 - **Claude:** "Share" button → "Create shareable link" → Copy URL
 - Include brief description of each conversation's purpose and key insights
 
-#### 2. Strategic PRD Document (35 points)
+#### 2. Strategic PRD Document
 **Format:** Professional PDF document  
 **Purpose:** Demonstrate strategic analysis and business case development
 
@@ -43,7 +44,7 @@ Submit three deliverables demonstrating your mastery of AI collaboration for str
 - **Browser:** Use markdown preview + Print to PDF
 - **Google Docs:** Copy content → Apply formatting → Download as PDF
 
-#### 3. Executive Pitch Deck (40 points)
+#### 3. Executive Pitch Deck
 **Format:** Professional slide presentation (PDF or PowerPoint)  
 **Purpose:** Executive communication and AI-assisted content creation
 
@@ -64,42 +65,39 @@ Submit three deliverables demonstrating your mastery of AI collaboration for str
 
 ### Submission Format
 
-**Create folder:** "MSBA Workshop - [Your Full Name]"  
-**Share with:** [Instructor Email] (Editor permissions)  
-**Submit:** Google Drive folder link in assignment submission box
+**File Upload:** Upload 2 PDF files directly to LMS assignment  
+**Text Submission:** AI conversation links in assignment text box
 
-**Required Folder Structure:**
+**Required File Names:**
+- `Strategic_PRD_Fname_Lname.pdf` (student replaces Fname_Lname with their actual name)
+- `Executive_Pitch_Deck_Fname_Lname.pdf` (student replaces Fname_Lname with their actual name)
+
+**AI Chat Links in Text Box:**
 ```
-MSBA Workshop - [Your Name]/
-├── AI_Conversations.pdf (or Google Doc with links)
-├── Strategic_PRD.pdf  
-└── Executive_Pitch_Deck.pdf
+Phase 1 Research: [ChatGPT/Claude link]
+Phase 3 Analysis: [ChatGPT/Claude link]  
+Phase 4 Prototype: [ChatGPT/Claude link]
+Phase 5 Presentation: [ChatGPT/Claude link]
 ```
 
-### Grading Rubric
+### Credit/No Credit Evaluation
 
-**AI Conversation Quality (25 points):**
-- Excellent (23-25): Sophisticated prompt progression, critical evaluation, strategic insights
-- Good (20-22): Effective AI collaboration, some iteration, reasonable insights
-- Satisfactory (17-19): Basic AI usage, limited sophistication, minimal evaluation
-- Poor (0-16): Inadequate documentation, no progression shown, missing conversations
+**CREDIT Requirements:**
+- **Complete Participation:** Full workshop attendance and active engagement
+- **All Deliverables Submitted:** AI conversations, PRD, and pitch deck submitted on time
+- **Professional Standards Met:** Deliverables show effort and appropriate formatting
+- **Learning Progression Shown:** Evidence of AI collaboration development across phases
 
-**PRD Strategic Thinking (35 points):**
-- Excellent (32-35): Compelling business case, data-driven decisions, comprehensive analysis
-- Good (28-31): Solid analysis, reasonable business case, good strategic thinking
-- Satisfactory (24-27): Basic requirements met, limited strategic insight
-- Poor (0-23): Incomplete analysis, weak business case, poor strategic thinking
-
-**Presentation Excellence (40 points):**
-- Excellent (36-40): Professional design, compelling narrative, executive-appropriate
-- Good (32-35): Good presentation, clear message, appropriate for audience
-- Satisfactory (28-31): Basic presentation, meets requirements
-- Poor (0-27): Unprofessional, unclear message, inappropriate for audience
+**NO CREDIT Criteria:**
+- Missing workshop attendance without arrangement
+- Failed to submit required deliverables within deadline  
+- Deliverables show minimal effort or unprofessional presentation
+- No evidence of learning or engagement with workshop content
 
 ### Late Submission Policy
-- 10% deduction per day late
-- No submissions accepted after 1 week
+- Late submissions may result in No Credit
 - Contact instructor immediately if technical issues prevent on-time submission
+- Extensions may be granted for documented emergencies
 
 ### Academic Integrity
 - AI assistance is encouraged and required for this assignment
@@ -125,33 +123,28 @@ If you encounter technical difficulties with:
 ## Instructor Notes for LMS Setup
 
 ### Assignment Settings
-- **Assignment Type:** File Upload (for Google Drive link)
-- **Points:** 100 points total
+- **Assignment Type:** File Upload + Text Entry
+- **File Upload:** Allow multiple files (2 PDFs)
+- **Text Entry:** For AI conversation links  
+- **Grading:** Credit/No Credit (not points-based)
 - **Due Date:** 48 hours after workshop end
-- **Late Policy:** 10% per day, 1 week maximum
+- **Late Policy:** May result in No Credit
 - **Group Assignment:** No (individual submissions)
 
-### Rubric Configuration
-Create 3-criterion rubric in LMS:
-1. AI Conversation Quality (25%)
-2. Strategic PRD Document (35%)  
-3. Executive Pitch Deck (40%)
-
-Each criterion should have 4 performance levels:
-- Excellent (90-100%)
-- Good (80-89%)
-- Satisfactory (70-79%)
-- Poor (0-69%)
+### LMS Configuration
+- **Grading Type:** Complete/Incomplete or Pass/Fail (not points)
+- **Rubric:** Simple Credit/No Credit checklist
+- **Requirements:** All deliverables submitted + professional standards met
 
 ### Feedback Templates
-**Excellent Work:**
-"Outstanding demonstration of AI collaboration sophistication. Your strategic thinking and executive communication skills are evident throughout all deliverables. This work showcases the professional consulting capabilities we aim to develop."
+**Credit Earned:**
+"Congratulations on successfully completing the workshop deliverables! Your AI collaboration progression and professional presentation demonstrate the learning outcomes we aimed for. Your [specific strength] particularly stood out. This foundation will serve you well in future AI-assisted business work."
 
-**Good Work:** 
-"Strong performance across all deliverables. Your AI collaboration shows good progression and your strategic analysis demonstrates solid business thinking. Minor refinements in [specific area] would elevate this to exceptional work."
+**Credit Earned (Minimal Requirements):**
+"You have successfully met the requirements for workshop credit. Your deliverables show completion of all phases and evidence of learning. Consider exploring [specific suggestion] in future AI collaboration work to further develop these valuable skills."
 
-**Needs Improvement:**
-"Basic requirements met but missing the strategic depth and professional polish expected. Focus on [specific areas]. Schedule office hours to discuss how to strengthen your approach to AI collaboration and business analysis."
+**No Credit (Needs Resubmission):**
+"Your submission does not yet meet the requirements for credit. Please address: [specific issues]. Contact me during office hours to discuss how to strengthen your deliverables. Resubmission deadline: [date]."
 
 ### Common Issues & Solutions
 - **Broken AI links:** Accept screenshots with brief explanation

@@ -1,33 +1,25 @@
-# MSBA Workshop Assessment Rubric
-## AI-Powered Customer Service Chatbot Workshop
+# MSBA Workshop Assessment Framework
+## AI-Powered Customer Service Chatbot Workshop (Credit/No Credit)
 
 ---
 
-## Overall Grade Distribution
+## Assessment Overview
 
-**Total Points:** 100  
-**Grade Scale:** A (90-100), B (80-89), C (70-79), D (60-69), F (<60)
+**Grading:** Credit/No Credit (Pass/Fail)  
+**Requirements:** Complete participation + satisfactory deliverables + learning demonstration
 
-### Component Weighting
-- **Individual Assessment (40 points)**
-  - Research Quality: 15 points
-  - AI Collaboration Skills: 15 points  
-  - Strategic Thinking: 10 points
+### Assessment Components
+- **Workshop Participation:** Full attendance and active engagement
+- **Learning Progression:** Evidence of AI collaboration skill development  
+- **Professional Deliverables:** Three post-workshop submissions meeting professional standards
+- **Reflection:** 250-word essay on AI collaboration learning experience
 
-- **Team Assessment (40 points)**
-  - Solution Design Quality: 20 points
-  - Prototype Development: 20 points
-
-- **Participation & Presentation (20 points)**
-  - Workshop Engagement: 10 points
-  - Final Presentation: 10 points
-
-### Post-Workshop Deliverables (Separate Grade: 100 points)
-- **AI Conversation Documentation:** 25 points
-- **Strategic PRD Document:** 35 points
-- **Executive Pitch Deck:** 40 points
-
-*Note: Workshop performance (100 points) and deliverables (100 points) are weighted equally for final course grade*
+### Credit Requirements
+To receive **CREDIT**, students must demonstrate:
+- **Active Participation:** Full workshop attendance with engaged learning
+- **Skill Development:** Clear progression in AI collaboration sophistication
+- **Professional Work:** Deliverables meeting business communication standards
+- **Reflective Learning:** Understanding of AI collaboration strengths and limitations
 
 ---
 
