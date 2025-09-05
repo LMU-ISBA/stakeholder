@@ -6,9 +6,10 @@
 ## Workshop Overview
 
 **Duration:** 3 hours  
-**Format:** Interactive workshop with AI collaboration  
+**Format:** Interactive Zoom workshop with AI collaboration  
 **Class Size:** 12-24 students (teams of 2-3)  
 **Learning Focus:** AI-human collaboration for business problem solving
+**Delivery:** Virtual via Zoom with breakout rooms and screen sharing
 
 ### Core Learning Objectives
 1. **AI Research Skills:** Using AI for rapid business intelligence gathering
@@ -23,21 +24,27 @@
 
 ### Technology Setup (Complete 24 hours before)
 - [ ] **AI Tool Access:** Ensure all students have accounts for ChatGPT Plus, Claude Pro, or equivalent
-- [ ] **Prototyping Platforms:** Set up class accounts for Figma, Chatfuel, or HubSpot trials
-- [ ] **Collaboration Tools:** Prepare shared documents/folders for team deliverables
-- [ ] **Backup Plans:** Have offline templates ready in case of technical issues
+- [ ] **Prototyping Platforms:** Set up class accounts for lovable.dev, bolt.new, v0.app, or replit.com
+- [ ] **Collaboration Tools:** Prepare shared Google Drive folders and Miro boards for team deliverables
+- [ ] **Zoom Features:** Test breakout rooms, screen sharing, and recording functionality
+- [ ] **Backup Plans:** Have downloadable templates ready and alternative platforms identified
+- [ ] **Communication Channels:** Set up Slack or Teams workspace for technical support during workshop
 
-### Room Setup
-- [ ] **Team Tables:** Arrange for 6-8 teams of 2-3 students each
-- [ ] **Presentation Screen:** Large display for sharing examples and deliverables
-- [ ] **Power/WiFi:** Ensure reliable internet and charging stations
-- [ ] **Whiteboard/Flipchart:** For flow diagrams and brainstorming
+### Zoom Setup
+- [ ] **Breakout Rooms:** Pre-configure 6-8 breakout rooms for teams of 2-3 students each
+- [ ] **Screen Sharing:** Test screen sharing capabilities and permissions
+- [ ] **Recording:** Set up session recording for reference and absent students
+- [ ] **Chat Features:** Enable file sharing and private messaging
+- [ ] **Virtual Whiteboard:** Set up Miro or equivalent collaborative tool
+- [ ] **Co-Host Access:** Assign co-hosts to help manage breakout rooms
 
-### Materials Preparation
-- [ ] **Print Student Workbooks:** One per student with activities and templates
-- [ ] **Stakeholder Transcript:** Printed copies as backup to digital access
-- [ ] **Example Deliverables:** Sample outputs to show quality expectations
-- [ ] **Resource Links:** Shortened URLs for easy access to tools and platforms
+### Digital Materials Preparation
+- [ ] **Digital Student Workbooks:** Shared Google Docs with activities and templates
+- [ ] **Stakeholder Transcript:** Available in shared folder with backup download links
+- [ ] **Example Deliverables:** Sample outputs shared via screen and in resource folder
+- [ ] **Resource Links:** Organized in shared document with one-click access
+- [ ] **Success Story:** Link to live Apogee Digital prototype (https://lontok-apogee-test-01-run-chatbot-dahjsc.streamlit.app/)
+- [ ] **Virtual Backgrounds:** Provide professional backgrounds for students if needed
 
 ---
 
@@ -63,7 +70,7 @@
 - Mix of casual and professional users creates complexity
 - Goal is reducing volume while maintaining quality
 
-**Show:** Navigate to apogeedigital.com briefly to give context
+**Show:** Screen share apogeedigital.com and the live prototype (https://lontok-apogee-test-01-run-chatbot-dahjsc.streamlit.app/) to demonstrate the workshop's proven results
 
 **Questions to Ask:**
 - "What customer service challenges might a technical B2B company face?"
@@ -76,17 +83,22 @@
 
 ### Activity 1: Business Intelligence Gathering (15 minutes)
 
-#### Setup (2 minutes)
-**Instructions:**
-- Form teams of 2-3 students
-- Designate one person as "AI collaborator" and one as "business analyst"
+#### Setup (3 minutes)
+**Zoom Instructions:**
+- Assign students to pre-configured breakout rooms (2-3 per room)
+- Share team assignments via chat and on screen
+- In each breakout room, designate one person as "AI collaborator" and one as "business analyst"
+- Ensure all team members can screen share and access shared documents
 - Rotate these roles throughout the workshop
 
-#### Facilitation Approach (13 minutes)
-**Circulate and Coach:**
-- Visit each team within first 5 minutes to ensure they're on track
+#### Facilitation Approach (12 minutes)
+**Virtual Circulation:**
+- Visit each breakout room within first 5 minutes to ensure they're on track
+- Use Zoom's "Join Breakout Room" feature to rotate between teams
+- Monitor main room chat for questions and technical issues
+- Have co-hosts assist with room visits to cover all teams efficiently
 - Help teams refine their AI prompts for better results
-- Look for teams struggling with AI tool usage
+- Look for teams struggling with AI tool usage or virtual collaboration
 
 **Common Issues & Solutions:**
 - **Too broad prompts:** Help narrow focus to specific business questions
@@ -277,7 +289,7 @@ This should be the most interactive part of Phase 2.
 - Scalability and maintenance considerations
 - Security and compliance requirements
 
-**Teaching Moment:** "Great solutions aren't just about features - they're about how all the pieces work together to solve business problems."
+**Virtual Teaching Moment (Screen Share):** "Great solutions aren't just about features - they're about how all the pieces work together to solve business problems. As you can see from our live prototype example, we went from email snippet to working solution in just 3 hours using these exact techniques."
 
 **Minutes 5-15: AI-Assisted Architecture Design**
 **Coaching Focus:**
@@ -322,7 +334,7 @@ Conversation design is where business requirements meet user experience. This de
 - Design for success, but plan for failure
 - Human handoff should be seamless, not frustrating
 
-**Show Example:** Demonstrate good vs. poor chatbot interactions
+**Screen Share Example:** Demonstrate good vs. poor chatbot interactions using the live Apogee prototype and competitor examples
 
 **Minutes 5-20: Flow Development**
 **Coaching Focus Areas:**
@@ -367,10 +379,11 @@ Conversation design is where business requirements meet user experience. This de
 This is where concepts become reality. Maintain momentum while ensuring quality.
 
 #### Setup (5 minutes)
-**Platform Options Overview:**
-- **No-Code Chatbot:** Best for conversation flow testing
-- **Interactive Mockup:** Best for user experience design
-- **HubSpot Workflow:** Best for integration demonstration
+**Updated Platform Options:**
+- **lovable.dev:** Full-stack web application development with AI assistance
+- **bolt.new:** Instant web app prototyping with modern frameworks
+- **v0.app:** AI-powered UI component and interface generation
+- **replit.com:** Collaborative coding environment with instant deployment
 
 **Team Decision Factors:**
 - Technical comfort level
@@ -416,13 +429,15 @@ This is where concepts become reality. Maintain momentum while ensuring quality.
 #### Culminating Activity
 This brings everything together and allows peer learning.
 
-#### Facilitation Structure
-**Format:** 2 minutes per team presentation + 30 seconds feedback
+#### Virtual Facilitation Structure
+**Format:** 2 minutes per team screen-share presentation + 30 seconds feedback
 
-**Presentation Guidelines:**
+**Zoom Presentation Guidelines:**
+- Teams return to main room for presentations
 - 30 seconds: Problem statement and approach
-- 60 seconds: Solution architecture overview  
-- 30 seconds: Prototype demonstration
+- 60 seconds: Solution architecture overview (screen share)
+- 30 seconds: Prototype demonstration (screen share)
+- Use gallery view to see all team reactions
 
 **Audience Engagement:**
 - Have teams complete feedback forms during presentations
@@ -535,23 +550,25 @@ Teams share 1-2 key insights with the class
 
 ### Technical Issues
 
+**Zoom-Specific Problems:**
+- Have backup meeting room ready
+- Test all features 30 minutes before workshop
+- Assign co-hosts to help with technical issues
+- Have phone numbers ready for students with connection issues
+- Record session for students who get disconnected
+
 **AI Tool Access Problems:**
 - Have 2-3 backup AI platforms identified
 - Create shared team accounts if individual access fails
-- Prepare offline templates for all activities
-- Designate tech-savvy students as peer helpers
+- Use screen sharing to demonstrate tools for struggling students
+- Designate tech-savvy students as peer helpers in breakout rooms
 
 **Prototyping Platform Issues:**
-- Keep multiple prototyping options available
-- Have printable mockup templates as backup
-- Partner with teams using different platforms
-- Focus on concept demonstration over technical execution
-
-**Internet Connectivity Problems:**
-- Download key resources for offline access
-- Prepare printed transcript copies
-- Have offline brainstorming alternatives
-- Shift focus to strategic thinking and planning
+- Focus on lovable.dev, bolt.new, v0.app, and replit.com as updated options
+- Have backup accounts ready for each platform
+- Partner teams using different platforms for cross-learning
+- Emphasize static UI screens over functional backends
+- Focus on visual demonstration for pitch deck integration
 
 ### Engagement Challenges
 
@@ -651,21 +668,22 @@ Teams share 1-2 key insights with the class
 
 **2 Weeks Before:**
 - [ ] Confirm technology access for all students
-- [ ] Update workshop materials with current examples
-- [ ] Test all AI platforms and prototyping tools
-- [ ] Prepare backup materials and contingency plans
+- [ ] Update workshop materials with current examples and success story
+- [ ] Test all AI platforms and prototyping tools (lovable.dev, bolt.new, v0.app, replit.com)
+- [ ] Prepare digital backup materials and contingency plans
 
 **1 Week Before:**
-- [ ] Send pre-workshop communication to students
-- [ ] Finalize room setup and technology requirements
-- [ ] Print all necessary materials
-- [ ] Confirm any guest speaker or client participation
+- [ ] Send pre-workshop Zoom link and digital materials to students
+- [ ] Configure breakout rooms and test all Zoom features
+- [ ] Set up shared digital workspace (Google Drive, Miro boards)
+- [ ] Confirm co-host availability for virtual assistance
 
 **Day Before:**
-- [ ] Test all technology in workshop room
-- [ ] Prepare materials and supplies organization
-- [ ] Review student roster and team assignments
-- [ ] Confirm workshop timeline and activity transitions
+- [ ] Test all Zoom features including breakout rooms and screen sharing
+- [ ] Organize digital materials in shared folders
+- [ ] Review student roster and breakout room assignments
+- [ ] Confirm workshop timeline and virtual activity transitions
+- [ ] Test live prototype link and backup platforms
 
 ### Post-Workshop Follow-Up
 

@@ -40,7 +40,7 @@ This demonstrates the power of structured AI collaboration for rapid business pr
 
 **Key Innovation:** Strategic scoping emerges from discovery, not predetermined assumptions. Students learn authentic business analyst workflow.
 
-### 📋 **[Phase 1: Broad Research & Domain Understanding](./phase1_research.md)** (30 minutes)
+### 📋 **[Phase 1: Broad Research & Domain Understanding](./phases/phase1_research.md)** (30 minutes)
 **Focus:** AI scaffolding progression from basic prompts to sophisticated research
 
 **Key Activities:**
@@ -51,7 +51,7 @@ This demonstrates the power of structured AI collaboration for rapid business pr
 **Learning:** Evolution from simple prompts to professional research frameworks
 **Deliverable:** Comprehensive research brief with validated insights
 
-### 🤝 **[Phase 2: Discovery Meeting Preparation](./phase2_discovery.md)** (30 minutes)  
+### 🤝 **[Phase 2: Discovery Meeting Preparation](./phases/phase2_discovery.md)** (30 minutes)  
 **Focus:** Strategic framework development for stakeholder engagement
 
 **Key Activities:**
@@ -62,7 +62,7 @@ This demonstrates the power of structured AI collaboration for rapid business pr
 **Learning:** Strategic questioning to discover which products drive most support volume
 **Deliverable:** Discovery agenda with prioritized questions and scenario preparation
 
-### 🎯 **[Phase 3: Strategic Analysis & PRD Development](./phase3_analysis.md)** (30 minutes)
+### 🎯 **[Phase 3: Strategic Analysis & PRD Development](./phases/phase3_analysis.md)** (30 minutes)
 **Focus:** Data-driven product focus decision and business case creation
 
 **CRITICAL LEARNING MOMENT:** Strategic scoping emerges from stakeholder evidence
@@ -75,7 +75,7 @@ This demonstrates the power of structured AI collaboration for rapid business pr
 **Learning:** Let stakeholder data drive strategic decisions, not predetermined assumptions
 **Deliverable:** Strategic PRD with data-driven focus and compelling business justification
 
-### 🛠️ **[Phase 4: Targeted Prototype Development](./phase4_prototype.md)** (30 minutes)
+### 🛠️ **[Phase 4: Targeted Prototype Development](./phases/phase4_prototype.md)** (30 minutes)
 **Focus:** Build realistic solution for specific product area identified in Phase 3
 
 **Key Activities:**
@@ -86,7 +86,7 @@ This demonstrates the power of structured AI collaboration for rapid business pr
 **Learning:** Proof-of-concept approach validates assumptions before broader investment
 **Deliverable:** Working prototype with realistic content and business value demonstration
 
-### 🎤 **[Phase 5: Evidence-Based Pitch Deck Creation](./phase5_pitch.md)** (20 minutes)
+### 🎤 **[Phase 5: Evidence-Based Pitch Deck Creation](./phases/phase5_pitch.md)** (20 minutes)
 **Focus:** Integrate all work into compelling presidential presentation
 
 **Key Activities:**
@@ -104,7 +104,7 @@ This demonstrates the power of structured AI collaboration for rapid business pr
 ### 🖥️ **Required Platform Access**
 - **AI Research Tools:** [ChatGPT Plus](https://plus.openai.com/) or [Claude Pro](https://claude.ai/)
 - **Prototyping Platforms:** [HubSpot](https://hubspot.com/) (free trial), [Figma](https://figma.com/) (free tier)
-- **No-Code Chatbot Builders:** [Chatfuel](https://chatfuel.com/), [ManyChat](https://manychat.com/), or [Landbot](https://landbot.io/)
+- **No-Code Development Platforms:** [lovable.dev](https://lovable.dev/), [bolt.new](https://bolt.new/), [v0.app](https://v0.app/), or [replit.com](https://replit.com/)
 - **Collaboration:** [Google Workspace](https://workspace.google.com/) or [Microsoft Teams](https://teams.microsoft.com/)
 
 ### 🤖 **Recommended AI Tools by Use Case**
@@ -163,10 +163,10 @@ This demonstrates the power of structured AI collaboration for rapid business pr
 - **Backup plans:** Offline templates available for technical issues
 
 ### 📋 **Instructor Materials**
-- **[Workshop Timeline](./workshop_timeline.md)** - Detailed 3-hour schedule with activities
-- **[Instructor Guide](./instructor_guide.md)** - Complete facilitation manual with coaching tips
-- **[Student Workbook](./student_workbook.md)** - Templates, exercises, and assessment criteria
-- **[Assessment Rubric](./assessment_rubric.md)** - Comprehensive evaluation framework
+- **[Workshop Timeline](./instructor/workshop_timeline.md)** - Detailed 3-hour schedule with activities
+- **[Instructor Guide](./instructor/instructor_guide.md)** - Complete facilitation manual with coaching tips
+- **[Student Workbook](./student/student_workbook.md)** - Templates, exercises, and assessment criteria
+- **[Assessment Rubric](./instructor/assessment_rubric.md)** - Comprehensive evaluation framework
 
 ---
 
@@ -216,13 +216,13 @@ This demonstrates the power of structured AI collaboration for rapid business pr
 - **[Phase 5: Evidence-Based Pitch Deck Creation](./phase5_pitch.md)** - Executive presentation and business case
 
 ### 📚 **Supporting Workshop Materials**
-- **[Student Workbook](./student_workbook.md)** - Templates, exercises, and comprehensive assessment criteria
-- **[Instructor Guide](./instructor_guide.md)** - Complete facilitation manual with coaching techniques
-- **[Assessment Rubric](./assessment_rubric.md)** - Detailed evaluation framework for all deliverables
-- **[Resource Library](./resource_library.md)** - AI tools, platforms, and learning materials
+- **[Student Workbook](./student/student_workbook.md)** - Templates, exercises, and comprehensive assessment criteria
+- **[Instructor Guide](./instructor/instructor_guide.md)** - Complete facilitation manual with coaching techniques
+- **[Assessment Rubric](./instructor/assessment_rubric.md)** - Detailed evaluation framework for all deliverables
+- **[Resource Library](./resources/resource_library.md)** - AI tools, platforms, and learning materials
 
 ### 🎯 **Case Study Materials**
-- **[Stakeholder Transcript](./transcript.txt)** - Real meeting transcript from Apogee Digital customer service team
+- **[Stakeholder Transcript](./student/transcript.txt)** - AI-generated transcript based on notes from Apogee Digital customer service team meeting
 - **[Apogee Digital Website](https://apogeedigital.com/)** - Company background and product information
 - **Industry Context:** Professional audio equipment market analysis and customer service challenges
 
