@@ -40,34 +40,35 @@ I need to analyze this transcript strategically for a customer service automatio
 - Patterns: Look for repeated mentions of specific products, most frustrating issues, automation opportunities
 
 ### Step 1C: Structured Transcript Analysis (7 minutes)
-**Type:**
+**Now you'll create the structured prompt yourself. Start with this framework:**
 ```
-ROLE: You are a senior business analyst specializing in customer service automation projects for B2B technical companies.
+ROLE: [What type of business analyst expertise do we need?]
 
-CONTEXT: This transcript is from a discovery meeting with Apogee Digital stakeholders about customer service automation. I'm preparing to create a focused internship project proposal for the company president. I need strategic insights that will help me identify the highest-impact opportunity and justify resource investment.
+CONTEXT: [What should AI understand about this transcript and our objectives?]
 
-TASK: Analyze this transcript to identify:
-1. Specific products or product categories mentioned as problematic
-2. Volume indicators and capacity constraints 
-3. Customer impact issues (response times, satisfaction, complexity)
-4. Team pain points and operational challenges
-5. Success metrics and business objectives mentioned
-6. Strategic opportunities for automation focus
+TASK: [What specific insights do we need to extract from this transcript?]
 
-OUTPUT FORMAT:
-- Executive summary with key strategic insights
-- Six detailed analysis sections with specific quotes from transcript
-- Strategic recommendation for project focus area
-- Business case elements for president presentation
-- Risk factors and implementation considerations
+OUTPUT FORMAT: [How should the analysis be structured for business decision-making?]
 
 FILES: [Transcript attached]
 ```
 
-**Expected Response:** Professional strategic analysis that identifies specific business opportunities
-**Learning Point:** Structured prompts with clear business objectives produce actionable strategic insights
+**Build your prompt by discussing each section:**
+- **ROLE:** What kind of analyst perspective would be most valuable for this business decision?
+- **CONTEXT:** What background does AI need about the situation and what you're trying to achieve?
+- **TASK:** What specific patterns and insights should AI look for in the transcript?
+- **OUTPUT FORMAT:** How should the analysis be organized to support your next steps?
 
-**CRITICAL DISCOVERY MOMENT:** Look for patterns in the AI analysis that suggest which products drive the most support volume and complexity.
+**Key guidance for your prompt construction:**
+- Focus on identifying **specific products** mentioned as problematic
+- Look for **volume indicators** and team capacity issues
+- Extract **success metrics** and business objectives
+- Identify **strategic opportunities** for automation focus
+- Include **specific quotes** to support findings
+
+**CRITICAL DISCOVERY MOMENT:** Your prompt should help AI identify patterns that suggest which products drive the most support volume and complexity.
+
+**Learning Point:** Building structured prompts yourself develops strategic thinking about what questions to ask of the data
 
 ## Step 2: Strategic Focus Decision (8 minutes)
 

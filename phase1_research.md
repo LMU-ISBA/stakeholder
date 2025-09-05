@@ -37,7 +37,24 @@ I need to research Apogee Digital for a customer service automation project, but
 - Decisions: What questions to ask in discovery meeting, how to position automation benefits
 
 ### Step 1C: Level 3 - Structured Research Prompt (3 minutes)
-**After AI has gathered context, create this structured prompt:**
+**Now create a structured prompt using this framework:**
+```
+ROLE: [What type of AI expertise do we need for this research?]
+
+CONTEXT: [Based on our discussion, what background should AI understand about our situation?]
+
+TASK: [What specific research deliverables do we need?]
+
+OUTPUT FORMAT: [What structure would be most useful for our discovery meeting preparation?]
+```
+
+**Work with AI to fill in each section:**
+- **ROLE:** Discuss what kind of expert perspective would be most helpful
+- **CONTEXT:** Include the key details AI needs to provide targeted advice
+- **TASK:** Define specific, actionable research objectives
+- **OUTPUT FORMAT:** Specify the structure that will best support your next steps
+
+**Example completed prompt:**
 ```
 ROLE: You are a business research analyst preparing for a discovery meeting with Apogee Digital about customer service automation opportunities.
 
@@ -57,8 +74,7 @@ OUTPUT FORMAT:
 - Industry benchmarks and best practices relevant to their business
 ```
 
-**Expected Response:** Professional research brief that prepares you for stakeholder conversations
-**Learning Point:** Structured prompts with clear business context produce actionable intelligence
+**Learning Point:** Structured frameworks with AI collaboration produce professional-quality business intelligence
 
 ## Step 2: Advanced Research with GPTOracle (12 minutes)
 

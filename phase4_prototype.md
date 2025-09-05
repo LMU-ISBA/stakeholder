@@ -62,33 +62,48 @@ For these conversation flows, how should we integrate the existing [PRODUCT] kno
 ### Step 3A: Platform Selection with AI Guidance (3 minutes)
 **Type:**
 ```
-Based on our [PRODUCT] conversation flows and the need to demonstrate this to executives, help me choose the best prototyping approach. Consider: ease of development, demonstration capabilities, integration with existing systems, and ability to show realistic interactions.
+Based on our [PRODUCT] conversation flows and the need to demonstrate this to executives, help me choose the best prototyping platform from these options: lovable.dev, bolt.new, v0.app, or replit.com. Consider: ease of development, demonstration capabilities, realistic chat interface creation, and executive presentation value.
 ```
 
-**Platform options might include:**
-- **Figma**: High-fidelity mockups with click-through interactions
-- **Simple chatbot builder**: Functional prototype with basic logic
-- **Presentation format**: Screen flows with realistic content
+**Platform options:**
+- **lovable.dev**: Full-stack web application development with AI assistance
+- **bolt.new**: Instant web app prototyping with modern frameworks
+- **v0.app**: AI-powered UI component and interface generation
+- **replit.com**: Collaborative coding environment with instant deployment
 
 ### Step 3B: Rapid Prototype Development (5 minutes)
-**Using your chosen platform, create:**
+**First, create a comprehensive prompt for your no-code platform. Type:**
+```
+I need to create a detailed prompt for [chosen platform] to build a customer service chatbot UI prototype with static screens. Based on our [PRODUCT] conversation flows and business requirements, help me write a comprehensive prompt that includes:
 
-**Key Screens/Interactions to Build:**
-- Initial customer inquiry (showing multiple ways to express the same need)
-- Information gathering sequence 
-- Decision point with branching logic
-- Resolution screen with knowledge base content
-- Escalation handoff screen
+1. Project context: customer service chatbot demonstration for executives
+2. UI requirements: modern chat interface with message bubbles and input fields
+3. Screen flow requirements: static screens showing our conversation flow with pre-written responses
+4. Visual design: professional appearance suitable for business presentation
+5. User interaction: click-through navigation between conversation steps (no backend/database needed)
+6. Content specifications: realistic customer inputs and knowledge base responses we identified
 
-**Content to Include:**
-- Realistic customer inputs based on product research
-- Actual knowledge base content formatted for chat
-- Clear escalation criteria and handoff process
-- Business value demonstration (time saved, accuracy improved)
+Make this prompt detailed enough that the no-code platform can generate static prototype screens that demonstrate our conversation flow visually for executive presentation. Focus on UI mockups, not functional chat logic.
+```
 
-**Focus on:** One complete conversation flow that works end-to-end rather than multiple incomplete flows
+**Then use the AI-generated prompt on your chosen platform to create:**
 
-**Phase 4 Deliverable:** Working prototype demonstrating specific product automation with realistic content and clear business value
+**Key Static Screens to Build:**
+- Screen 1: Initial customer inquiry (with realistic customer message)
+- Screen 2: Bot response asking clarifying questions
+- Screen 3: Customer provides additional details
+- Screen 4: Bot delivers knowledge base solution with next steps
+- Screen 5: Resolution confirmation or escalation handoff
+
+**Static Content to Include:**
+- Pre-written realistic customer messages based on product research
+- Pre-written bot responses using actual knowledge base content
+- Visual conversation flow that can be clicked through step-by-step
+- Professional chat interface design suitable for executive demonstration
+
+**Focus on:** Visual demonstration of one complete conversation that executives can click through to see the automation in action
+
+**Phase 4 Deliverable:** Static prototype screens ready for integration into Phase 5 pitch deck presentation
 
 ---
 
