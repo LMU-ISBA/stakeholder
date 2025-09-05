@@ -733,6 +733,157 @@ Always include:
 
 ---
 
+# Workshop Deliverables
+
+## Required Submissions
+
+All students must submit the following three deliverables within 48 hours of workshop completion:
+
+### 1. AI Conversation Documentation 
+**Format:** Shared links to your AI chat sessions  
+**Purpose:** Demonstrate AI collaboration progression and learning
+
+**What to Include:**
+- **Phase 1 Research:** Link to conversation showing research scaffolding progression (Basic → AI-Guided → Structured)
+- **Phase 3 Analysis:** Link to transcript analysis conversation showing strategic thinking development  
+- **Phase 4 Prototype:** Link to conversation where you developed comprehensive platform prompts
+- **Phase 5 Presentation:** Link to conversation showing presentation strategy and slide development
+
+**How to Share AI Conversations:**
+- **ChatGPT:** Click the share button (↗️) in top-right corner → Create shareable link → Copy URL
+- **Claude:** Click "Share" button → "Create shareable link" → Copy URL  
+- **Other AI tools:** Screenshot key conversation sections if sharing not available
+
+**Submission Format:** Google Doc with labeled links and brief description of each conversation's purpose
+
+### 2. Strategic PRD Document
+**Format:** PDF export of your Phase 3 Product Requirements Document  
+**Purpose:** Show strategic analysis and business case development skills
+
+**Content Requirements:**
+- Problem statement based on transcript analysis
+- Strategic product focus decision with evidence
+- Business case with ROI projections  
+- Implementation roadmap with risk mitigation
+- Academic partnership value proposition
+
+**How to Convert Markdown to PDF:**
+
+**Option 1: Online Converter (Recommended)**
+1. Go to [Pandoc Try](https://pandoc.org/try/) or [Markdown to PDF](https://md-to-pdf.fly.dev/)
+2. Paste your markdown content
+3. Select PDF as output format
+4. Download the converted file
+
+**Option 2: Browser Print-to-PDF**
+1. Copy your markdown into a markdown preview tool (like [StackEdit](https://stackedit.io/))
+2. View the rendered version
+3. Press Ctrl+P (PC) or Cmd+P (Mac)
+4. Choose "Save as PDF" as destination
+5. Adjust margins for professional appearance
+
+**Option 3: Google Docs Method**
+1. Copy your markdown content
+2. Paste into Google Docs
+3. Apply professional formatting (headers, bullet points)
+4. File → Download → PDF Document (.pdf)
+
+**Quality Standards:**
+- Professional formatting with clear headers and structure
+- No markdown syntax visible in final PDF
+- Readable fonts and appropriate spacing
+- Business-appropriate presentation
+
+### 3. Executive Pitch Deck
+**Format:** Professional slide presentation (PDF or PowerPoint)  
+**Purpose:** Demonstrate executive communication and AI-assisted content creation
+
+**Required Slides:**
+1. **Executive Summary** - Problem, solution, impact in 30 seconds
+2. **Research Foundation** - Key insights driving strategic focus
+3. **Discovery Results** - Stakeholder pain points and opportunities  
+4. **Strategic Focus** - Product area decision with evidence
+5. **Solution Demonstration** - Prototype screenshots and key features
+6. **Business Case** - ROI projections and risk mitigation
+7. **Implementation Plan** - Academic partnership and next steps
+8. **Success Metrics** - How you'll measure project effectiveness
+
+**Creating Your Slide Deck with AI (Gamma.app Method):**
+
+**Step 1: Prepare Your Content Prompt**
+```
+Create a professional slide deck for pitching a customer service automation project to a company president. 
+
+CONTEXT:
+- Company: [Apogee Digital - professional audio equipment]
+- Project: AI chatbot for customer service automation  
+- Audience: Company president and executive team
+- Goal: Approval for internship project with faculty mentorship
+
+CONTENT TO INCLUDE:
+[Paste key points from your Phase 1-4 work here]
+
+REQUIREMENTS:
+- 8 slides maximum
+- Executive-level communication style
+- Data-driven and business-focused
+- Professional visual design
+- Clear call-to-action for approval
+
+PRESENTATION FLOW:
+1. Hook with business problem and opportunity
+2. Build credibility with research insights
+3. Show strategic thinking with focus decision
+4. Demonstrate value with working prototype
+5. Present clear business case with ROI
+6. Address risks and mitigation strategies  
+7. Outline implementation with academic partnership
+8. Close with specific approval request and next steps
+```
+
+**Step 2: Generate Slides with Gamma**
+1. Go to [Gamma.app](https://gamma.app/)
+2. Sign up for free account
+3. Click "Create new AI" → "Presentation"
+4. Paste your prepared prompt
+5. Choose professional template
+6. Review and refine generated content
+7. Export as PDF or PowerPoint
+
+**Step 3: Quality Review**
+- Does each slide have a clear purpose?
+- Is the business case compelling and specific?
+- Are visuals professional and supportive?
+- Does the flow build logical momentum toward approval?
+- Is language appropriate for executive audience?
+
+## Submission Process
+
+**Deadline:** 48 hours after workshop completion
+
+**Submission Method:** 
+1. Create a single Google Drive folder named: "MSBA Workshop - [Your Name]"
+2. Upload all three deliverables to the folder
+3. Share folder with instructor (edit permissions)
+4. Submit folder link via course management system
+
+**Folder Structure:**
+```
+MSBA Workshop - [Your Name]/
+├── AI_Conversations.pdf (or Google Doc with links)
+├── Strategic_PRD.pdf  
+└── Executive_Pitch_Deck.pdf
+```
+
+## Grading Integration
+
+These deliverables will be evaluated as part of your overall workshop assessment:
+- **AI Conversation Quality:** Demonstrates learning progression and effective collaboration (15%)
+- **PRD Strategic Thinking:** Shows analysis skills and business case development (20%)
+- **Presentation Excellence:** Executive communication and professional delivery (15%)
+
+---
+
 # Assessment Criteria
 
 ## Individual Assessment (40%)

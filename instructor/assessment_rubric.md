@@ -22,6 +22,13 @@
   - Workshop Engagement: 10 points
   - Final Presentation: 10 points
 
+### Post-Workshop Deliverables (Separate Grade: 100 points)
+- **AI Conversation Documentation:** 25 points
+- **Strategic PRD Document:** 35 points
+- **Executive Pitch Deck:** 40 points
+
+*Note: Workshop performance (100 points) and deliverables (100 points) are weighted equally for final course grade*
+
 ---
 
 ## Individual Assessment (40 points)
@@ -762,6 +769,241 @@
 - **Subtotal: 13/20**
 
 **Total: 66/100 = D+**
+
+---
+
+## Post-Workshop Deliverables Assessment (100 points)
+
+### AI Conversation Documentation (25 points)
+**Evaluates:** Quality of AI collaboration progression, learning documentation, strategic conversation development
+
+#### Excellent (23-25 points) - Grade: A
+**Conversation Quality:**
+- Sophisticated prompt progression showing clear learning arc
+- Multiple iterations and refinements within conversations
+- Critical evaluation and challenging of AI outputs
+- Strategic follow-up questions that deepen insights
+
+**Learning Documentation:**
+- Clear progression from Phase 1 basic prompts to Phase 5 sophisticated frameworks
+- Evidence of meta-learning about AI collaboration techniques
+- Specific examples of iterative improvement and refinement
+- Thoughtful integration of AI insights with human strategic thinking
+
+**Technical Execution:**
+- All required conversations properly shared and accessible
+- Clear labeling and context for each conversation's purpose
+- Professional presentation of documentation
+
+**Quality Indicators:**
+- 4+ complete conversations covering all required phases
+- Clear evidence of scaffolding progression (Basic → AI-Guided → Structured → Specialized)
+- Multiple examples of iterative refinement and improvement
+- Strategic insights that go beyond basic information gathering
+
+#### Good (20-22 points) - Grade: B
+**Conversation Quality:**
+- Effective prompt techniques with some progression shown
+- Some iteration and refinement of AI outputs
+- Generally good evaluation of AI suggestions
+- Reasonable strategic development throughout phases
+
+**Learning Documentation:**
+- Good progression shown across workshop phases
+- Evidence of learning about AI collaboration
+- Adequate integration of AI insights
+- Some examples of improvement and refinement
+
+**Technical Execution:**
+- Most required conversations shared and accessible
+- Generally clear labeling and context
+- Acceptable presentation quality
+
+#### Satisfactory (17-19 points) - Grade: C
+**Conversation Quality:**
+- Basic AI usage with limited sophistication
+- Minimal iteration or refinement shown
+- Accepts AI output without much evaluation
+- Limited strategic development
+
+**Learning Documentation:**
+- Basic progression across phases
+- Limited evidence of meta-learning
+- Minimal integration effort
+- Few examples of improvement
+
+**Technical Execution:**
+- Most conversations accessible
+- Basic labeling and context
+- Adequate presentation
+
+#### Poor (0-16 points) - Grade: D/F
+- Inadequate conversation documentation
+- No clear progression shown
+- Missing required phase conversations
+- Poor technical execution or accessibility
+
+### Strategic PRD Document (35 points)
+**Evaluates:** Strategic analysis skills, business case development, professional communication
+
+#### Excellent (32-35 points) - Grade: A
+**Strategic Analysis:**
+- Compelling problem statement based on thorough transcript analysis
+- Data-driven product focus decision with strong supporting evidence
+- Sophisticated understanding of stakeholder needs and business context
+- Strategic insights that go beyond obvious requirements
+
+**Business Case Development:**
+- Detailed ROI projections with realistic assumptions and methodology
+- Comprehensive risk assessment with specific mitigation strategies
+- Clear understanding of implementation complexity and resource requirements
+- Strong academic partnership value proposition with specific benefits
+
+**Professional Communication:**
+- Executive-level writing style appropriate for presidential audience
+- Logical structure building persuasive case for approval
+- Professional formatting and visual presentation
+- Error-free grammar and business terminology
+
+**Quality Indicators:**
+- Specific evidence and quotes from transcript analysis supporting all conclusions
+- Quantified ROI projections with clear methodology
+- Detailed implementation roadmap with realistic timelines
+- Professional PDF formatting with clear structure and visual appeal
+
+#### Good (28-31 points) - Grade: B
+**Strategic Analysis:**
+- Solid problem analysis with good transcript insights
+- Reasonable product focus with adequate justification
+- Good understanding of main stakeholder concerns
+- Relevant strategic thinking throughout
+
+**Business Case Development:**
+- Basic ROI projections with reasonable assumptions
+- Good risk identification with some mitigation strategies
+- Understanding of implementation requirements
+- Clear academic partnership benefits
+
+**Professional Communication:**
+- Business-appropriate writing style
+- Clear structure and logical flow
+- Good formatting and presentation
+- Minor errors that don't impede understanding
+
+#### Satisfactory (24-27 points) - Grade: C
+**Strategic Analysis:**
+- Basic problem identification from transcript
+- Limited strategic insight beyond obvious points
+- Simple product focus decision
+- Superficial analysis of requirements
+
+**Business Case Development:**
+- Basic ROI discussion without detailed methodology
+- Limited risk assessment
+- Vague implementation planning
+- Simple academic partnership description
+
+**Professional Communication:**
+- Acceptable business writing
+- Basic structure and organization
+- Adequate formatting
+- Some errors but readable
+
+#### Poor (0-23 points) - Grade: D/F
+- Incomplete or inaccurate strategic analysis
+- Weak or missing business case
+- Poor professional communication
+- Significant formatting or accessibility issues
+
+### Executive Pitch Deck (40 points)
+**Evaluates:** Executive communication skills, visual design, business storytelling, AI-assisted content creation
+
+#### Excellent (36-40 points) - Grade: A
+**Content Quality:**
+- Compelling narrative arc building logical case for approval
+- Executive-appropriate language and business focus
+- Data-driven insights integrated throughout presentation
+- Clear value proposition with specific business impact
+
+**Visual Design:**
+- Professional visual design appropriate for executive audience
+- Effective use of charts, graphics, and visual elements
+- Consistent branding and style throughout
+- High-quality prototype screenshots and demonstrations
+
+**Business Communication:**
+- Persuasive storytelling that builds momentum toward approval
+- Anticipates and addresses executive concerns and objections
+- Clear call-to-action with specific next steps
+- Appropriate level of detail for time constraints
+
+**AI Integration:**
+- Sophisticated use of AI prompts to generate presentation structure
+- Evidence of iterative refinement and improvement
+- Creative use of AI capabilities while maintaining human strategic oversight
+- Professional final product that enhances rather than replaces strategic thinking
+
+**Quality Indicators:**
+- 8 focused slides with clear purpose and logical flow
+- Professional design quality suitable for C-suite presentation
+- Compelling business case with specific ROI and risk mitigation
+- Evidence of sophisticated AI collaboration in creation process
+
+#### Good (32-35 points) - Grade: B
+**Content Quality:**
+- Good narrative structure with clear business message
+- Business-appropriate language and focus
+- Relevant insights and data integration
+- Clear value proposition
+
+**Visual Design:**
+- Good visual design with professional appearance
+- Appropriate use of visual elements
+- Generally consistent style
+- Good quality demonstrations
+
+**Business Communication:**
+- Clear communication suitable for executives
+- Addresses main business concerns
+- Reasonable call-to-action
+- Appropriate detail level
+
+**AI Integration:**
+- Effective use of AI for content generation
+- Some evidence of refinement
+- Good integration of AI assistance
+- Professional final result
+
+#### Satisfactory (28-31 points) - Grade: C
+**Content Quality:**
+- Basic narrative with main points covered
+- Acceptable business language
+- Limited insights or data integration
+- Simple value proposition
+
+**Visual Design:**
+- Basic design meeting minimum standards
+- Limited visual elements
+- Some inconsistency in style
+- Adequate demonstrations
+
+**Business Communication:**
+- Understandable communication
+- Addresses some business points
+- Basic call-to-action
+- Reasonable detail level
+
+**AI Integration:**
+- Basic AI usage for content creation
+- Limited refinement evidence
+- Simple integration approach
+- Acceptable final product
+
+#### Poor (0-27 points) - Grade: D/F
+- Unprofessional or unclear presentation
+- Inappropriate for executive audience
+- Poor visual design or technical execution
+- Inadequate use of AI collaboration tools
 
 ---
 
