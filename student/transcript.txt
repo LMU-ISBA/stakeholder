@@ -6,7 +6,7 @@ Once our gear is in the field, customers contact us in all kinds of ways. Some a
 
 That means we’re handling a flood of incoming questions while being expected to respond quickly and thoroughly. Our users range from students in dorm rooms to top-tier recording studios.
 
-The two big goals are: cut down on repeated questions, and shorten the time it takes to respond. We’ve just started digging into the data, and we think most issues may come from a few products. For example, we found that South Korea was generating an especially high volume of inquiries for one particular desktop model.
+The two big goals are: cut down on repeated questions, and shorten the time it takes to respond. We've just started digging into the data, and we think most issues may come from a few products. The Duet 3, one of our most popular products, receives a considerable number of support requests. For example, we found that South Korea was generating an especially high volume of inquiries for one particular desktop model.
 
 Support Manager:
 Right, our international service data showed that South Korea led in support tickets for that model.
