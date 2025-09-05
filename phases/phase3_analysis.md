@@ -64,6 +64,7 @@ FILES: [Transcript attached]
 - Look for **volume indicators** and team capacity issues
 - Extract **success metrics** and business objectives
 - Identify **strategic opportunities** for automation focus
+- Extract **constraints** spoken by stakeholders (budget, timeline, technical limitations, resource availability)
 - Include **specific quotes** to support findings
 
 **CRITICAL DISCOVERY MOMENT:** Your prompt should help AI identify patterns that suggest which products drive the most support volume and complexity. This analysis should directly reveal your product focus area.

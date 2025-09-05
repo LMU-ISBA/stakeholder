@@ -20,6 +20,10 @@ By the end of this workshop, participants will:
 - **Present business solutions** with clear value propositions and implementation roadmaps
 - **Understand AI collaboration best practices** for professional consulting engagements
 
+### 🧠 Core AI Collaboration Principle
+
+**AI as Thought Partner:** The most powerful AI collaboration happens when we use AI to clarify and refine our own thinking. AI can't read our mind - the quality of our outputs depends on how clearly we communicate our context, constraints, and objectives. AI augments human intelligence rather than replacing it. This workshop teaches you to use AI as an intelligent collaborator that helps you think more strategically, not as a tool that thinks for you.
+
 ## 🚀 Proof of Concept: From Email to Prototype in 3 Hours
 
 This workshop methodology has been proven in practice. Using these exact AI collaboration techniques, we successfully went from:

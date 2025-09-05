@@ -1,4 +1,4 @@
-# Phase 1: Broad Research & Domain Understanding (30 minutes)
+# Phase 1: Broad Research & Domain Understanding (28 minutes)
 
 **Objective:** Get broad understanding of Apogee Digital and industry context to prepare for discovery meeting. NO product pre-selection - keep scope open for strategic decision later.
 
@@ -7,7 +7,7 @@
 
 ---
 
-## Step 1: Basic Research Prompt Evolution (8 minutes)
+## Step 1: Basic Research Prompt Evolution (11 minutes)
 
 ### Step 1A: Level 1 - Basic Research Prompt (2 minutes)
 **Open your AI tool and type exactly:**
@@ -76,6 +76,23 @@ OUTPUT FORMAT:
 
 **Learning Point:** Structured frameworks with AI collaboration produce professional-quality business intelligence
 
+### Step 1D: Prompt Improvement Iteration (3 minutes)
+**Now ask AI to help you refine your prompt. Type:**
+```
+Review the structured research prompt I just created. What specific improvements would you suggest to make it more effective?
+```
+
+**AI will suggest improvements like:**
+- Adding more specific context about the business situation
+- Requesting particular types of evidence or data sources
+- Clarifying the audience for the research output
+- Including specific industry terminology or frameworks
+- Defining success criteria for the research
+
+**Your Action:** Take 1-2 of the suggestions and revise your prompt to incorporate them, then run the improved version.
+
+**Learning Point:** Iterative prompt refinement through AI feedback develops stronger collaboration skills than having AI do all the work
+
 ## Step 2: Advanced Research with GPTOracle (12 minutes)
 
 ### Step 2A: Using GPTOracle AI Research Meta-Prompter (7 minutes)
@@ -102,7 +119,7 @@ I need to research Apogee Digital and the professional audio industry for a cust
 
 **GPTOracle will generate a sophisticated, structured research prompt optimized for your specific consulting needs**
 
-### Step 2B: Execute Deep Research (5 minutes)
+### Step 2B: Execute Deep Research (~10 minutes)
 **Copy the complete GPTOracle-generated prompt and paste into:**
 - ChatGPT with Deep Research enabled, OR
 - Claude with web search capabilities, OR  
@@ -110,31 +127,32 @@ I need to research Apogee Digital and the professional audio industry for a cust
 
 **Expected Response:** Professional-quality research report with specific insights, industry benchmarks, and strategic recommendations
 
+**Note:** After the report is complete, check the multi-step reasoning process that Deep Research used to validate the thoroughness of the analysis.
+
+**Alternative: Use Pre-completed Deep Research** 
+Since Deep Research takes time with multi-step reasoning, you can use this completed example for Step 3 validation exercises: https://chatgpt.com/share/68baeda5-30d8-8002-9938-8f3f9f2a233f
+
 **Learning Point:** Specialized AI tools like GPTOracle generate much more sophisticated research frameworks than general prompting
 
-## Step 3: Research Validation & Critical Analysis (10 minutes)
+## Step 3: Research Validation & Discovery Gap Analysis (5 minutes)
 
-### Step 3A: AI Devil's Advocate Analysis (5 minutes)
 **Type:**
 ```
-Based on the research you just provided about Apogee Digital and customer service automation, I want you to play devil's advocate. Ruthlessly critique this research and highlight any assumptions, blind spots, or potential flaws in the analysis. What might we be missing or getting wrong?
+Based on the research about Apogee Digital and customer service automation, I want you to:
+1. Play devil's advocate - ruthlessly critique this research and highlight assumptions, blind spots, or flaws
+2. Identify what additional information we need to validate these recommendations  
+3. Suggest specific questions I should ask Apogee stakeholders that our research couldn't answer
+
+What might we be missing or getting wrong, and what discovery questions will fill those gaps?
 ```
 
-**Expected AI Challenges:**
-- "How do we know customers actually want automated support for technical issues?"
-- "What if Apogee's current customer service is already effective and differentiated?"
-- "Are we assuming automation works for complex B2B technical products without evidence?"
-- "What about the risk of damaging customer relationships with impersonal automation?"
+**Expected AI Response:**
+- **Critical challenges:** "How do we know customers want automated support for technical issues?"
+- **Assumption challenges:** "Are we assuming automation works for complex B2B products without evidence?"
+- **Risk identification:** "What about damaging customer relationships with impersonal automation?"
+- **Discovery questions:** Specific stakeholder questions to validate assumptions and fill research gaps
 
-**Learning Point:** Always challenge your research and assumptions before making strategic recommendations
-
-### Step 3B: Research Gap Identification (5 minutes)
-**Type:**
-```
-What additional information would we need to validate these automation recommendations? What questions should I ask Apogee stakeholders that our research couldn't answer?
-```
-
-**Expected Response:** List of validation questions and information gaps that the discovery meeting should address
+**Learning Point:** Critical analysis should directly lead to actionable discovery questions that validate assumptions
 
 **Phase 1 Deliverable:** Comprehensive research brief with validated insights and strategic questions for discovery meeting
 
