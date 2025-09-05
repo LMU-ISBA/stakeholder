@@ -40,7 +40,7 @@
 
 ### Digital Materials Preparation
 - [ ] **Digital Student Workbooks:** Shared Google Docs with activities and templates
-- [ ] **Stakeholder Transcript:** Available in shared folder with backup download links
+- [ ] **Stakeholder Transcript:** Direct GitHub link ready for chat: https://github.com/LMU-MSBA/AI-ALLY/raw/main/student/transcript.txt
 - [ ] **Example Deliverables:** Sample outputs shared via screen and in resource folder
 - [ ] **Resource Links:** Organized in shared document with one-click access
 - [ ] **Success Story:** Link to live Apogee Digital prototype (https://lontok-apogee-test-01-run-chatbot-dahjsc.streamlit.app/)
@@ -116,10 +116,14 @@
 ### Activity 2: Stakeholder Needs Analysis (20 minutes)
 
 #### Setup (3 minutes)
-**Distribute transcript** (ensure digital and backup print copies)
+**Distribute transcript via chat and screen share:**
+- Share direct link in Zoom chat: https://github.com/LMU-MSBA/AI-ALLY/raw/main/student/transcript.txt
+- Show students how to download: Right-click → "Save link as..." or "Download linked file"
+- Confirm all students have access before proceeding
+- Have backup: Screen share the transcript content if needed
 
 **Key Instructions:**
-- Read transcript first, then use AI for analysis
+- Download and read transcript first, then use AI for analysis  
 - Focus on extracting specific, actionable requirements
 - Look for contradictions or gaps in stakeholder statements
 

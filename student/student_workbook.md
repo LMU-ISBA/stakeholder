@@ -134,9 +134,12 @@ Provide insights that would help design an effective chatbot for this industry.
 Extract key requirements and pain points from the provided stakeholder transcript.
 
 ### Instructions
-1. **Read the Transcript:** Review the customer service team meeting transcript
-2. **AI Analysis:** Use AI to help categorize and prioritize stakeholder needs
-3. **Requirements Synthesis:** Complete the Stakeholder Analysis Template
+1. **Download the Transcript:** 
+   - Access the stakeholder meeting transcript at: https://github.com/LMU-MSBA/AI-ALLY/raw/main/student/transcript.txt
+   - Right-click and "Save as" or download the file to your computer
+2. **Read the Transcript:** Review the customer service team meeting transcript thoroughly
+3. **AI Analysis:** Use AI to help categorize and prioritize stakeholder needs  
+4. **Requirements Synthesis:** Complete the Stakeholder Analysis Template
 
 ### AI Prompt Template:
 ```

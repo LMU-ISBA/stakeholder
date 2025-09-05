@@ -1,7 +1,5 @@
 CLAUDE.md
 workshop-slides.md
-transcript.txt
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
