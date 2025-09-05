@@ -23,7 +23,7 @@
 **Approach:** Collaborative AI methodology for rapid business solution development
 
 ### Your Mission
-Work in teams to research, analyze, and prototype a customer service chatbot solution for Apogee Digital based on real stakeholder requirements. You'll use AI as a collaborative partner throughout the process.
+Work individually to research, analyze, and prototype a customer service chatbot solution for Apogee Digital based on real stakeholder requirements. You'll use AI as a collaborative partner throughout the process.
 
 ---
 
@@ -73,7 +73,7 @@ The customer support team is overwhelmed with:
 Use AI to rapidly understand Apogee Digital's business context and industry landscape.
 
 ### Instructions
-1. **Team Formation:** Work in teams of 2-3 students
+1. **Individual Work:** Work independently through each phase
 2. **AI Research:** Use the provided AI prompt templates to gather intelligence
 3. **Documentation:** Complete the Business Context Template below
 
@@ -601,17 +601,14 @@ Build a working prototype or high-fidelity mockup of your chatbot solution.
 
 # Templates & Worksheets
 
-## Team Collaboration Tracker
+## Individual Progress Tracker
 
-**Team Members:**
-- Name: _________________ Role: _________________
-- Name: _________________ Role: _________________  
-- Name: _________________ Role: _________________
+**Student Name:** _________________________________
 
-**Responsibility Matrix:**
-| Activity | Primary Owner | Support Members | Deliverable Due |
-|----------|---------------|-----------------|-----------------|
-| Business Research | | | |
+**Individual Responsibility Checklist:**
+| Activity | Completed | Notes | Deliverable Due |
+|----------|-----------|-------|-----------------|
+| Business Research | ☐ | | |
 | Stakeholder Analysis | | | |
 | Discovery Questions | | | |
 | Technical Architecture | | | |
@@ -908,7 +905,7 @@ To receive **Credit** for this workshop, demonstrate:
 
 ### Active Learning & Engagement
 - **Full Attendance:** Participate in all workshop phases and activities
-- **Collaborative Spirit:** Work effectively in teams and contribute to discussions  
+- **Self-Direction:** Work independently and engage actively with AI collaboration tools  
 - **Professional Behavior:** Maintain focus, respect others, and engage constructively
 - **Curiosity & Questions:** Ask thoughtful questions and explore AI capabilities
 

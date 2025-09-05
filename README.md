@@ -5,7 +5,7 @@ A comprehensive, hands-on workshop that teaches MSBA students how to collaborate
 ## 🎯 Workshop Overview
 
 **Duration:** 3 hours  
-**Format:** Interactive team-based learning with AI collaboration  
+**Format:** Interactive individual learning with AI collaboration  
 **Outcome:** Working customer service chatbot prototype and strategic implementation plan  
 **Level:** Business strategy focus with practical AI collaboration skills
 **Case Study:** Apogee Digital customer service automation for professional audio equipment company
@@ -163,7 +163,7 @@ This demonstrates the power of structured AI collaboration for rapid business pr
 
 ### 🎓 **Workshop Day Requirements**
 - **Laptop/device:** Reliable internet connection and modern web browser
-- **Team formation:** 2-3 students per team (assigned by instructor)
+- **Individual work:** Students work independently with AI collaboration
 - **Materials access:** Student workbook, templates, and resource library
 - **Backup plans:** Offline templates available for technical issues
 
@@ -189,7 +189,7 @@ This demonstrates the power of structured AI collaboration for rapid business pr
 
 ## 📊 Expected Outcomes
 
-**Team Deliverables:**
+**Student Deliverables:**
 - ✅ Comprehensive business analysis of Apogee Digital and competitive landscape
 - ✅ Strategic discovery question framework for client stakeholder interviews
 - ✅ Technical architecture design for HubSpot-integrated chatbot solution  
