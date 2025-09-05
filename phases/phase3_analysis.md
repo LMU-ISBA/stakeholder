@@ -40,7 +40,14 @@ I need to analyze this transcript strategically for a customer service automatio
 - Patterns: Look for repeated mentions of specific products, most frustrating issues, automation opportunities
 
 ### Step 1C: Structured Transcript Analysis (7 minutes)
-**Now you'll create the structured prompt yourself. Start with this framework:**
+**Understanding the progression:** Step 1A shows basic prompting limitations, Step 1B demonstrates AI collaboration, but for efficiency, **jump straight to AI-generated structured prompting.**
+
+**Type:**
+```
+Create a structured ROLE CONTEXT TASKS OUTPUT FORMAT prompt for analyzing this stakeholder transcript to support strategic business decisions about customer service automation focus areas. I need to identify specific products, constraints, opportunities, and success metrics to scope an internship project for executive approval.
+```
+
+**AI will generate a comprehensive RCTO framework like:**
 ```
 ROLE: [What type of business analyst expertise do we need?]
 
@@ -53,11 +60,7 @@ OUTPUT FORMAT: [How should the analysis be structured for business decision-maki
 FILES: [Transcript attached]
 ```
 
-**Build your prompt by discussing each section:**
-- **ROLE:** What kind of analyst perspective would be most valuable for this business decision?
-- **CONTEXT:** What background does AI need about the situation and what you're trying to achieve?
-- **TASK:** What specific patterns and insights should AI look for in the transcript?
-- **OUTPUT FORMAT:** How should the analysis be organized to support your next steps?
+**Then use the AI-generated prompt to analyze your transcript.**
 
 **Key guidance for your prompt construction:**
 - Focus on identifying **specific products** mentioned as problematic
@@ -71,22 +74,26 @@ FILES: [Transcript attached]
 
 **Learning Point:** Building structured prompts yourself develops strategic thinking about what questions to ask of the data. Your analysis should clearly identify which product area to focus the prototype on based on stakeholder evidence.
 
-## Step 2: PRD Development for President Approval (15 minutes)
+## Step 2: PRD Development (15 minutes)
 
-### Step 2A: AI-Guided PRD Creation (15 minutes)
+### Step 2A: AI-Generated PRD Framework (15 minutes)
 **Type:**
 ```
-Help me create a Product Requirements Document (PRD) for a customer service automation internship project. The goal is to get approval from the company president for an intern to work on this with faculty mentorship. Ask me questions to understand what should be included to make this compelling for executive approval.
+Based on my transcript analysis findings, create a structured ROLE CONTEXT TASKS OUTPUT FORMAT prompt for developing a Product Requirements Document (PRD) for a customer service automation internship project. Use the specific insights, constraints, stakeholder concerns, and success metrics I identified from the transcript to inform each element of the prompt framework.
 ```
 
-**AI will guide you through:**
-- Executive summary and business case
-- Project scope and focus rationale (based on transcript analysis)
-- Success metrics and ROI projections
-- Resource requirements (intern + faculty time)
-- Risk mitigation and proof-of-concept approach
-- Implementation timeline and milestones
-- Academic partnership benefits
+**AI will generate a comprehensive RCTO framework like:**
+```
+ROLE: [What type of PRD expertise do we need?]
+
+CONTEXT: [What background should AI understand about the transcript insights and business situation?]
+
+TASK: [What specific PRD components need to be developed?]
+
+OUTPUT FORMAT: [How should the PRD be structured for stakeholder approval?]
+```
+
+**Then use the AI-generated prompt to create your PRD.**
 
 **Key Elements to Include:**
 - **Problem Statement:** Based on specific issues identified in transcript
@@ -96,7 +103,7 @@ Help me create a Product Requirements Document (PRD) for a customer service auto
 - **Academic Value:** Learning outcomes for intern, faculty expertise contribution
 - **Business Impact:** Projected time savings, improved response times, team capacity
 
-**Phase 3 Deliverable:** Strategic PRD with data-driven product focus and compelling business case for president approval
+**Phase 3 Deliverable:** Strategic PRD with data-driven product focus and compelling business case based on stakeholder evidence
 
 ---
 

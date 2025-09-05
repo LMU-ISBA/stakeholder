@@ -38,7 +38,7 @@ This demonstrates the power of structured AI collaboration for rapid business pr
 
 ## 🚀 Workshop Structure
 
-**Workshop Goal:** Prepare a business pitch for company president approval of an AI chatbot internship project with faculty mentorship.
+**Workshop Goal:** Prepare a business pitch to help Apogee Digital solve their customer service challenges while securing an internship opportunity that could potentially expand into a capstone project.
 
 **Starting Context:** Email snippet about Santa Monica audio equipment company needs customer service automation.
 
@@ -74,7 +74,7 @@ This demonstrates the power of structured AI collaboration for rapid business pr
 **Key Activities:**
 - Analyze actual stakeholder transcript using AI scaffolding progression
 - Make strategic product focus decision based on evidence from discovery insights  
-- Create compelling PRD for presidential approval with clear business case
+- Create compelling PRD that positions internship project with potential capstone expansion
 
 **Learning:** Let stakeholder data drive strategic decisions, not predetermined assumptions
 **Deliverable:** Strategic PRD with data-driven focus and compelling business justification
@@ -98,8 +98,8 @@ This demonstrates the power of structured AI collaboration for rapid business pr
 - Integrate research, discovery insights, strategic focus, and prototype into cohesive narrative
 - Practice presentation with AI playing skeptical president role
 
-**Learning:** Evidence-based storytelling for executive decision-making
-**Deliverable:** Complete business case ready for presidential approval
+**Learning:** Evidence-based storytelling for executive decision-making and internship positioning
+**Deliverable:** Complete business case that demonstrates value to client and secures internship opportunity
 
 ---
 

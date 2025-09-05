@@ -1,63 +1,61 @@
 # Phase 4: Targeted Prototype Development (30 minutes)
 
-**Objective:** Build focused prototype for the specific product area identified in Phase 3. Create realistic conversation flows using actual product knowledge base content. Demonstrate proof-of-concept approach.
+**Objective:** Build focused prototype directly from the PRD created in Phase 3. Create comprehensive prompt for no-code builder that translates strategic analysis into demonstrable proof-of-concept.
 
-**Previous Phase:** [Phase 3: Analysis](./phase3_analysis.md) - Use product focus decision and validation research to build targeted solution
+**Previous Phase:** [Phase 3: Analysis](./phase3_analysis.md) - Use PRD and strategic analysis to build targeted solution
 
 ---
 
-## Step 1: Product-Specific Research Deep Dive (10 minutes)
+## Step 1: PRD-to-Prototype Strategy (10 minutes)
 
-### Step 1A: Knowledge Base Analysis (5 minutes)
-**Based on your Phase 3 product focus decision, research the specific product's support resources:**
-
-**For example, if you identified a specific product, navigate to its knowledge base or support documentation**
-
+### Step 1A: PRD Analysis for Prototype Scope (5 minutes)
 **Type:**
 ```
-I've identified [PRODUCT NAME] as our prototype focus based on stakeholder insights. Help me analyze the support documentation and knowledge base for this product to understand:
-1. Most common customer issues and questions
-2. Complexity patterns in the support content
-3. Types of issues that could be automated vs. need human expertise
-4. Conversation flow opportunities for chatbot interactions
+Based on the PRD I created in Phase 3, help me extract the key elements needed to build a focused prototype:
+1. The specific product/focus area identified from transcript analysis
+2. The primary use cases and customer scenarios outlined in the PRD
+3. The success metrics and business objectives that the prototype should demonstrate
+4. The stakeholder constraints and requirements that should guide design decisions
+
+Analyze my PRD and create a prototype specification that translates the strategic analysis into concrete design requirements.
 ```
 
-**Action:** Browse the product's knowledge base and documentation to understand support complexity
+**Your Action:** Copy your Phase 3 PRD content into this conversation for AI analysis
 
-### Step 1B: Automation Opportunity Assessment (5 minutes)
+### Step 1B: Prototype Requirements Definition (5 minutes)
 **Type:**
 ```
-Based on the [PRODUCT] knowledge base I just reviewed, help me identify the top 3 conversation flows that would be most suitable for chatbot automation. Consider: frequency of issues, availability of clear answers, and ability to guide customers through solutions step-by-step.
+From the PRD analysis, help me define specific prototype requirements:
+1. What conversation flows would best demonstrate the identified value proposition?
+2. What realistic customer scenarios should the prototype showcase?
+3. What specific features would prove the business case to executives?
+4. What technical constraints should guide the no-code platform choice?
+
+Create a focused prototype scope that directly supports the business case from my PRD.
 ```
 
-**Expected Response:** Specific conversation flow recommendations based on actual product support content
+**Expected Response:** Targeted prototype requirements based on strategic analysis
 
-## Step 2: Conversation Flow Design (12 minutes)
+## Step 2: Comprehensive No-Code Builder Prompt Creation (12 minutes)
 
-### Step 2A: AI-Assisted Flow Architecture (7 minutes)
+### Step 2A: Platform-Optimized Prompt Development (12 minutes)
 **Type:**
 ```
-Help me design detailed conversation flows for [PRODUCT] customer support automation. I want to focus on the top conversation flows we identified. For each flow, help me create:
-1. Entry points (how customers might express this need)
-2. Information gathering questions 
-3. Decision tree logic based on customer responses
-4. Resolution paths using actual knowledge base content
-5. Escalation triggers for human handoff
+Based on the prototype requirements we just defined, help me create a comprehensive prompt for a no-code platform (lovable.dev, bolt.new, v0.app, or replit.com) that includes:
 
-Let's start with the first flow: [MOST COMMON ISSUE IDENTIFIED]
+1. **Business Context:** Executive demonstration for customer service automation project based on my PRD findings
+2. **Product Focus:** Specific product/area identified in transcript analysis with realistic use cases
+3. **UI Requirements:** Professional chat interface suitable for business presentation
+4. **Content Strategy:** Realistic customer scenarios and responses based on my strategic analysis
+5. **Conversation Flow:** Static screens that demonstrate the automation value proposition
+6. **Technical Specs:** Platform-specific requirements for rapid prototype development
+
+Make this prompt detailed enough that the no-code platform can generate a professional prototype that directly demonstrates the business value outlined in my PRD.
 ```
 
-**AI will help create realistic conversation flows using actual product complexity**
+**AI will create a comprehensive, platform-ready prompt that translates your strategic work into executable design specifications**
 
-### Step 2B: Content Integration Strategy (5 minutes)
-**Type:**
-```
-For these conversation flows, how should we integrate the existing [PRODUCT] knowledge base content? Help me design a strategy that uses the actual support articles and documentation as chatbot responses while maintaining conversational flow.
-```
-
-**Expected Response:** Strategy for leveraging existing content in automated conversations
-
-## Step 3: Prototype Creation (8 minutes)
+## Step 3: Prototype Execution and Refinement (8 minutes)
 
 ### Step 3A: Platform Selection with AI Guidance (3 minutes)
 **Type:**
