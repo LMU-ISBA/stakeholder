@@ -10,7 +10,7 @@
 
 **Go back to your Phase 1 research conversation and type:**
 ```
-I need to prepare for Phase 2 discovery meeting preparation. Create a concise summary of our research that I can use as context for my next AI collaboration. Include:
+I need to prepare for a discovery meeting preparation. Create a concise summary of our research that I can use as context for my next AI collaboration. Include:
 
 1. **Key Company Insights:** Most important findings about Apogee Digital's business, customers, and market position
 2. **Customer Service Challenges:** Main support issues and pain points we identified  
