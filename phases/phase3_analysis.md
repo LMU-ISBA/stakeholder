@@ -1,4 +1,4 @@
-# Phase 3: Strategic Analysis & PRD Development (30 minutes)
+# Phase 3: Strategic Analysis & PRD Development (22 minutes)
 
 **Objective:** Analyze the actual discovery meeting transcript to identify strategic opportunities. Make data-driven decision about which product area to focus on. Create PRD that positions internship project for president approval.
 
@@ -66,39 +66,13 @@ FILES: [Transcript attached]
 - Identify **strategic opportunities** for automation focus
 - Include **specific quotes** to support findings
 
-**CRITICAL DISCOVERY MOMENT:** Your prompt should help AI identify patterns that suggest which products drive the most support volume and complexity.
+**CRITICAL DISCOVERY MOMENT:** Your prompt should help AI identify patterns that suggest which products drive the most support volume and complexity. This analysis should directly reveal your product focus area.
 
-**Learning Point:** Building structured prompts yourself develops strategic thinking about what questions to ask of the data
+**Learning Point:** Building structured prompts yourself develops strategic thinking about what questions to ask of the data. Your analysis should clearly identify which product area to focus the prototype on based on stakeholder evidence.
 
-## Step 2: Strategic Focus Decision (8 minutes)
+## Step 2: PRD Development for President Approval (15 minutes)
 
-### Step 2A: Product Focus Identification (4 minutes)
-**Based on the transcript analysis, type:**
-```
-Based on your analysis of the transcript, which specific product or product area should we focus our automation prototype on? Provide your reasoning based on evidence from the stakeholder conversation.
-```
-
-**Expected AI Response:** Data-driven recommendation for product focus (likely mentioning specific product names, customer types, or problem categories that came up most frequently in stakeholder discussion)
-
-**Learning Point:** Strategic decisions should be based on stakeholder evidence, not assumptions
-
-### Step 2B: Focus Validation Research (4 minutes)
-**Once you have a product focus recommendation, type:**
-```
-Now that we've identified [PRODUCT] as our focus area, help me research this product specifically. What should I investigate about [PRODUCT] to validate that this is the right choice for a proof-of-concept automation project?
-```
-
-**AI will guide you to research:**
-- Product complexity and common customer issues
-- Available support documentation and knowledge base
-- Customer types who use this product
-- Typical support interaction patterns
-
-**Action:** Briefly research the recommended product using available resources (website, knowledge base, etc.)
-
-## Step 3: PRD Development for President Approval (7 minutes)
-
-### Step 3A: AI-Guided PRD Creation (7 minutes)
+### Step 2A: AI-Guided PRD Creation (15 minutes)
 **Type:**
 ```
 Help me create a Product Requirements Document (PRD) for a customer service automation internship project. The goal is to get approval from the company president for an intern to work on this with faculty mentorship. Ask me questions to understand what should be included to make this compelling for executive approval.
