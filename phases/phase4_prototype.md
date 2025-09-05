@@ -101,6 +101,8 @@ Make this prompt detailed enough that the no-code platform can generate static p
 - Visual conversation flow that can be clicked through step-by-step
 - Professional chat interface design suitable for executive demonstration
 
+**Troubleshooting Tip:** If your no-code platform throws errors or has trouble generating your prototype, try rewriting your prompt with this addition: *"Think harder about this request and reason through the technical requirements step by step."* This can trigger more sophisticated reasoning and often resolves complex generation issues.
+
 **Focus on:** Visual demonstration of one complete conversation that executives can click through to see the automation in action
 
 **Phase 4 Deliverable:** Static prototype screens ready for integration into Phase 5 pitch deck presentation
