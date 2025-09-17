@@ -1,6 +1,6 @@
 
 Consultant:
-On the production side, we design and manufacture our products, get them distributed, and place them in use worldwide. When I joined a few months back to provide guidance, Anna and I began discussing support challenges. Our Support Manager leads that effort.
+On the production side, we design and manufacture our products, get them distributed, and place them in use worldwide. When I joined a few months back to provide guidance, the stakeholder and I began discussing support challenges. Our Support Manager leads that effort.
 
 Once our gear is in the field, customers contact us in all kinds of ways. Some ask about setup—“how do I connect this?”—others want to explore advanced functions, and longtime users often ask about expansions or report errors.
 
@@ -12,7 +12,7 @@ Support Manager:
 Right, our international service data showed that South Korea led in support tickets for that model.
 
 Consultant:
-Exactly. So when Anna asked about potential projects, I thought this could be a strong candidate—combining data gathering, cleaning, analysis, and possibly AI integration. We’re still very new to this space. Support Manager, anything to add?
+Exactly. So when the stakeholder asked about potential projects, I thought this could be a strong candidate—combining data gathering, cleaning, analysis, and possibly AI integration. We're still very new to this space. Support Manager, anything to add?
 
 Support Manager:
 We’ve been experimenting with ChatGPT as a companion tool for our agents—mainly for chat and email responses. Phone calls are rare. We’re also trying to strengthen our self-help knowledge base on the website. But we’re just learning, so external input would be a big help.
@@ -24,7 +24,7 @@ Support Manager:
 Sure. Everything goes through HubSpot. We have a web form, a general support email, and a live chat window during certain hours. Phone support is limited to special cases. All those channels feed into HubSpot, which also powers our knowledge base. HubSpot itself has some built-in automation and learning features we’ve been using.
 
 Consultant:
-And beyond that, as Greg mentioned earlier, we are capturing customer information—including purchases—but we aren’t really using it for marketing or follow-up sales.
+And beyond that, as the faculty member mentioned earlier, we are capturing customer information—including purchases—but we aren't really using it for marketing or follow-up sales.
 
 Anyway, let me pause. How do you want to continue?
 
@@ -113,7 +113,7 @@ Faculty:
 Exactly. Prioritization is as much strategy as it is technology.
 
 Consultant:
-And this discussion only started a couple of weeks ago, when Anna asked me about project ideas.
+And this discussion only started a couple of weeks ago, when the stakeholder asked me about project ideas.
 
 Faculty:
 Good timing then. Start small with quick wins, then scale up.
@@ -128,7 +128,7 @@ Consultant:
 Even half an hour per person each day would be huge.
 
 Faculty Member:
-This could break into multiple projects. Greg, could this fit into student capstones?
+This could break into multiple projects. Could this fit into student capstones?
 
 Faculty:
 Yes. Students first gather requirements and draft proposals, then build in spring. But if you brought in an intern now, they could start right away and continue into the capstone.
