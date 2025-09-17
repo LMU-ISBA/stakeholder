@@ -4,7 +4,7 @@ A comprehensive lesson series that teaches students how to conduct strategic sta
 
 ## 🎯 Workshop Overview
 
-**Duration:** 5 lessons (100 minutes total)
+**Duration:** 4 lessons (85 minutes total)
 **Format:** Interactive individual learning with AI collaboration and simulation
 **Outcome:** PRD-ready stakeholder insights and advanced interview skills
 **Level:** Strategic stakeholder engagement with AI-powered research and analysis
@@ -91,17 +91,6 @@ This workshop teaches the foundational skills for effective stakeholder engageme
 **Learning:** Systematic stakeholder data analysis and insight synthesis for strategic decision-making
 **Deliverable:** Complete stakeholder analysis with PRD-ready insights organized by template sections
 
-### 📋 **[Lesson 5: Preparing for PRD Development](./lessons/lesson5_preparing_prd_development.md)** (15 minutes)
-**Focus:** Organize all stakeholder insights and prepare comprehensive PRD foundation
-
-**Key Activities:**
-- Synthesize insights from research, interview simulation, and transcript analysis
-- Map all gathered information to ChatPRD template sections systematically
-- Identify any remaining information gaps and plan for resolution
-- Create transition strategy for comprehensive PRD development in follow-up lesson
-
-**Learning:** Systematic preparation and organization for strategic PRD completion
-**Deliverable:** Complete PRD foundation with organized stakeholder insights ready for template completion
 
 ---
 
@@ -119,7 +108,6 @@ This workshop teaches the foundational skills for effective stakeholder engageme
 | **Lesson 2: Interview Design** | ChatGPT Plus or Claude Pro | RCTO framework generation, PRD-aligned questioning |
 | **Lesson 3: Simulation** | ChatGPT Plus or Claude Pro | Stakeholder role-play, personality adaptation |
 | **Lesson 4: Analysis** | Claude Pro (document analysis preferred) | Transcript analysis, insight extraction |
-| **Lesson 5: PRD Prep** | ChatGPT Plus or Claude Pro | Synthesis, organization, template mapping |
 
 ---
 
@@ -142,7 +130,6 @@ This workshop teaches the foundational skills for effective stakeholder engageme
 | **Lesson 2** | Generic → PRD-aligned question frameworks | Purpose-driven interview design |
 | **Lesson 3** | AI stakeholder simulation with personalities | Real-time adaptation and personality management |
 | **Lesson 4** | Systematic transcript analysis | Insight extraction and synthesis |
-| **Lesson 5** | Comprehensive organization and synthesis | PRD preparation and strategic planning |
 
 ### 🎯 **Case Study Context**
 **Client:** Apogee Digital - Professional audio equipment manufacturer  
@@ -198,7 +185,7 @@ This workshop teaches the foundational skills for effective stakeholder engageme
 - ✅ Generic and PRD-aligned interview question frameworks for strategic stakeholder engagement
 - ✅ AI simulation interview experience with different stakeholder personality types
 - ✅ Systematic stakeholder transcript analysis with insights organized by PRD sections
-- ✅ Complete PRD foundation with validated stakeholder insights ready for template completion
+- ✅ Comprehensive stakeholder analysis with PRD-ready insights and gap identification
 
 **Core Skills Developed:**
 - ✅ AI Deep Research and GPTOracle meta-prompting for comprehensive business intelligence
@@ -222,7 +209,6 @@ This workshop teaches the foundational skills for effective stakeholder engageme
 - **[Lesson 2: Designing Stakeholder Interviews](./lessons/lesson2_designing_stakeholder_interviews.md)** - Generic and PRD-aligned question frameworks
 - **[Lesson 3: Conducting Stakeholder Interviews](./lessons/lesson3_conducting_stakeholder_interviews.md)** - AI simulation with personality adaptation
 - **[Lesson 4: Analyzing Stakeholder Interviews](./lessons/lesson4_analyzing_stakeholder_interviews.md)** - Systematic transcript analysis and insight extraction
-- **[Lesson 5: Preparing for PRD Development](./lessons/lesson5_preparing_prd_development.md)** - Comprehensive synthesis and PRD foundation
 
 ### 📚 **Supporting Materials**
 - **[ChatPRD System Prompt](./prompts/chatprd_system_prompt.md)** - Complete PRD template structure for interview alignment

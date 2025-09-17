@@ -164,4 +164,4 @@ What additional information would I still need to gather for a complete PRD?
 
 ---
 
-**Next Lesson:** [Lesson 4: Analyzing Stakeholder Interviews] - Use your simulation insights plus the provided real transcript to conduct comprehensive analysis that prepares you for PRD development.
+**Next Lesson:** [Lesson 4: Analyzing Stakeholder Interviews] - Use your simulation insights plus the provided real transcript to conduct comprehensive analysis and extract PRD-ready insights for strategic product development.
