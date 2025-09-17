@@ -4,11 +4,11 @@ A comprehensive lesson series that teaches students how to conduct strategic sta
 
 ## 🎯 Workshop Overview
 
-**Duration:** 4 lessons (85 minutes total)
-**Format:** Interactive individual learning with AI collaboration and simulation
-**Outcome:** PRD-ready stakeholder insights and advanced interview skills
-**Level:** Strategic stakeholder engagement with AI-powered research and analysis
-**Case Study:** Apogee Digital customer service automation for professional audio equipment company
+- **Duration:** 4 lessons (100 minutes total)
+- **Format:** Interactive individual learning with AI collaboration and simulation
+- **Outcome:** PRD-ready stakeholder insights and advanced interview skills
+- **Level:** Strategic stakeholder engagement with AI-powered research and analysis
+- **Case Study:** Apogee Digital customer service automation for professional audio equipment company
 
 ### 🎓 Learning Objectives
 
@@ -43,7 +43,7 @@ This workshop teaches the foundational skills for effective stakeholder engageme
 
 **Key Learning:** Systematic stakeholder engagement combined with AI collaboration produces professional-quality business analysis and strategic insights.
 
-### 📋 **[Lesson 1: Researching the Stakeholder](./lessons/lesson1_researching_stakeholder.md)** (20 minutes)
+### 📋 **[Lesson 1: Researching the Stakeholder](./lessons/lesson1_researching_stakeholder.md)** (25 minutes)
 **Focus:** AI Deep Research and critical analysis for comprehensive stakeholder intelligence
 
 **Key Activities:**
@@ -55,7 +55,7 @@ This workshop teaches the foundational skills for effective stakeholder engageme
 **Learning:** AI as thought partner approach with professional skepticism and systematic validation
 **Deliverable:** Deep research intelligence with critical analysis and strategic discovery preparation
 
-### 🎯 **[Lesson 2: Designing Stakeholder Interviews](./lessons/lesson2_designing_stakeholder_interviews.md)** (20 minutes)
+### 🎯 **[Lesson 2: Designing Stakeholder Interviews](./lessons/lesson2_designing_stakeholder_interviews.md)** (25 minutes)
 **Focus:** Strategic interview design progressing from generic to PRD-aligned questioning
 
 **Key Activities:**
@@ -67,7 +67,7 @@ This workshop teaches the foundational skills for effective stakeholder engageme
 **Learning:** Purpose-driven interview design that shapes questioning strategy and information gathering
 **Deliverable:** Generic and PRD-aligned question sets ready for stakeholder simulation practice
 
-### 🤝 **[Lesson 3: Conducting Stakeholder Interviews](./lessons/lesson3_conducting_stakeholder_interviews.md)** (25 minutes)
+### 🤝 **[Lesson 3: Conducting Stakeholder Interviews](./lessons/lesson3_conducting_stakeholder_interviews.md)** (30 minutes)
 **Focus:** AI-simulated stakeholder interviews with personality-based adaptation practice
 
 **Key Activities:**

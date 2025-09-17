@@ -1,4 +1,4 @@
-# Lesson 2: Designing Stakeholder Interviews (20 minutes)
+# Lesson 2: Designing Stakeholder Interviews (25 minutes)
 
 **Objective:** Design strategic interview questions that gather comprehensive information for discovery meetings, progressing from generic business insights to PRD-specific requirements.
 

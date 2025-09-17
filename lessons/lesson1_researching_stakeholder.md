@@ -1,4 +1,4 @@
-# Lesson 1: Researching the Stakeholder (20 minutes)
+# Lesson 1: Researching the Stakeholder (25 minutes)
 
 **Objective:** Learn to conduct strategic stakeholder research that prepares you for effective discovery meetings by understanding company context, industry dynamics, and potential automation opportunities.
 

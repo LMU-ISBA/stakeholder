@@ -1,4 +1,4 @@
-# Lesson 3: Conducting Stakeholder Interviews (25 minutes)
+# Lesson 3: Conducting Stakeholder Interviews (30 minutes)
 
 **Objective:** Practice conducting stakeholder interviews through AI simulation, using your prepared questions from Lesson 2 and adapting your approach based on stakeholder responses and personality types.
 
