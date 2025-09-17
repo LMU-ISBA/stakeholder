@@ -96,6 +96,25 @@ Deep Research is ChatGPT's advanced research capability that conducts multi-step
 - Stakeholder research needing comprehensive context
 - Strategic planning requiring validated insights
 
+**Deep Research Usage Limits by Plan:**
+
+**ChatGPT (OpenAI):**
+- **Free:** ~5 lightweight Deep Research queries/month (o4-mini model)
+- **Plus/Team/Education/Enterprise:** ~25 Deep Research queries/month (mix of full + lightweight)
+- **Pro:** ~250 Deep Research queries/month
+- *Note: Free users only get lightweight mode; limits reset every 30 days from first use*
+
+**Claude (Anthropic):**
+- **Free:** ❌ No dedicated "Deep Research" feature (standard chats with 5-hour session limits)
+- **Pro:** Uses Claude's Research tool, counts against Pro usage (no fixed monthly limit - depends on length & complexity)
+- **Max:** Much higher usage with two tiers (≈5× and 20× Pro session capacity)
+
+**Gemini (Google):**
+- **Free/Basic:** ~5 Deep Research reports/month (Gemini 2.5 Flash)
+- **Pro:** ~20 Deep Research reports/day
+- **Ultra:** ~200 Deep Research reports/day
+- *Note: Limits reset daily; higher tiers are more generous than OpenAI or Anthropic*
+
 ### Step 4B: Generating Advanced Research Prompts (3 minutes)
 
 **Navigate to the Deep Research Prompt Generator:**
