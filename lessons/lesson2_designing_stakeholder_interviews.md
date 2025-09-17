@@ -50,6 +50,51 @@ Context:
 
 ---
 
+## Understanding Product Requirements Documents (PRDs)
+
+### What is a PRD?
+
+A **Product Requirements Document (PRD)** is a comprehensive document that defines what a product should do and why it should be built. It serves as the foundational blueprint that guides development teams, stakeholders, and decision-makers throughout the product development lifecycle.
+
+**Key purposes of a PRD:**
+- **Alignment:** Ensures all stakeholders understand the product vision and requirements
+- **Decision-making:** Provides evidence-based foundation for strategic and technical decisions
+- **Communication:** Bridges business stakeholders with technical development teams
+- **Scope management:** Clearly defines what is and isn't included in the project
+
+### PRD Template Structure
+
+Our workshop uses the ChatPRD template format (adapted from [ChatPRD.ai](https://chatprd.ai)), which includes these structured sections:
+
+**📋 Core Sections:**
+- **TL;DR** - Executive summary of problem, solution, and audience
+- **Goals** - Business goals, user goals, and explicit non-goals
+- **User Stories** - Specific user scenarios in "As a [user], I want [action], so that [benefit]" format
+- **Functional Requirements** - Features grouped by priority and product area
+- **User Experience** - Step-by-step journey including entry points, core flows, and edge cases
+- **Narrative** - Story demonstrating user challenge, solution impact, and business outcomes
+- **Success Metrics** - User-centric, business, and technical metrics with tracking plans
+- **Technical Considerations** - APIs, integrations, scalability, and implementation challenges
+- **Milestones & Sequencing** - Project estimates, team composition, and phased delivery approach
+
+**Note:** While we use the ChatPRD format for learning, companies typically adopt PRD templates that fit their specific organizational needs, development processes, and stakeholder requirements.
+
+### PRD in Capstone Projects
+
+The PRD is a **required component of your Capstone Proposal** and serves multiple critical functions:
+
+**📈 Benefits for Capstone Success:**
+- **Faculty Approval:** Demonstrates systematic thinking and professional approach to project planning
+- **Stakeholder Buy-in:** Shows external partners that you understand their business needs and constraints
+- **Project Scoping:** Prevents scope creep by clearly defining deliverables and boundaries
+- **Team Coordination:** Provides shared understanding for multi-disciplinary capstone teams
+- **Academic Rigor:** Connects theoretical frameworks with practical business application
+- **Professional Portfolio:** Creates industry-standard deliverable showcasing strategic thinking abilities
+
+**🎯 Strategic Advantage:** A well-crafted PRD positions your capstone project for success by ensuring all parties understand the business value, technical requirements, and success criteria before development begins.
+
+---
+
 ## Phase 2: PRD-Focused Interview Design (10 minutes)
 
 ### Step 2A: Generate PRD-Aligned Interview Framework (7 minutes)
